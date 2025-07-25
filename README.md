@@ -29,7 +29,7 @@
   **B.Eng. in Integrated Circuit Design and Integrated Systems**  
 
 &nbsp;&nbsp;📚**Key Courses**: Digital IC Design (96), Verilog HDL (95.6), FPGA Applications (95), Semiconductor Physics (93), IC Process (91),  
-&nbsp;&nbsp;&nbsp;&nbsp;EDA Practice (89), Analog IC Design, C Programming, Advanced Computer Architecture  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDA Practice (89), Analog IC Design, C Programming, Advanced Computer Architecture  
 &nbsp;&nbsp;🌐**English Proficiency**: CET-4, CET-6
 
 ---
