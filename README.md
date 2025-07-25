@@ -2,7 +2,7 @@
 
 🎯 **Job Objective**: AI Hardware Acceleration, AI Compiler Design  
 🔻 Based: Ningbo Institute of Industrial Technology, Zhejiang, China  
-🗓 Born: August 1997 (Age 28)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏠 Origin: Baise, Guangxi, China  
+🗓 Born: August 1997 (Age 28)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏠 Origin: Baise, Guangxi, China  
 📬 **Email**: [lushaoqiang@sjtu.edu.cn](#)  |  📱 **WeChat**: [+86 lushaoqiang2022](#)  
 🔗 [Google Scholar](https://scholar.google.com/citations?hl=en&user=VMm9FnEAAAAJ)  •  [IEEE](https://ieeexplore.ieee.org/author/37090071689)  •  [ACM](https://dl.acm.org/profile/99661548970)  •  [GitHub](https://github.com/ShaoqiangLu)  •  [Patents](https://www.patentstar.com.cn/Search/ResultList?CurrentQuery=6ZmG5bCR5by6L0lO&type=cn)
 
@@ -29,7 +29,7 @@
   **B.Eng. in Integrated Circuit Design and Integrated Systems**  
 
 &nbsp;&nbsp;📚**Key Courses**: Digital IC Design (96), Verilog HDL (95.6), FPGA Applications (95), Semiconductor Physics (93), IC Process (91),  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDA Practice (89), Analog IC Design, C Programming, Advanced Computer Architecture  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EDA Practice (89), Analog IC Design, C Programming, Advanced Computer Architecture  
 &nbsp;&nbsp;🌐**English Proficiency**: CET-4, CET-6
 
 ---
