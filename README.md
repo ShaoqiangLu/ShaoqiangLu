@@ -2,6 +2,8 @@
 
 🎯 **Job Objective**: AI Hardware Acceleration, AI Compiler Design  
 📍 Based in: Ningbo Institute of Industrial Technology, Zhejiang, China  
+🗓 Born: August 1997 (Age 28)  
+🏳 Origin: Baise, Guangxi, China 
 📬 **Email**: lushaoqiang@sjtu.edu.cn | 📱 **Phone/WeChat**: +86 182 9189 2870
 
 ---
@@ -62,7 +64,6 @@
 - **Languages**: Verilog HDL (daily), Python (AI & tools), C (embedded), C++ (compiler)
 - **Frameworks**: PyTorch, TensorFlow, TVM, LLVM
 - **Model Experience**: BERT, ViT, GPT-2, LLaMA-7B, Stable Diffusion, YOLOv7, ResNet, AlexNet, VGG16  
-  _(Trained with A100 GPUs)_
 - **Tools**: Vivado, ModelSim, CUDA, Linux, FPGA (Xilinx U200)
 
 ---
@@ -87,8 +88,7 @@
 
 ## 🧾 Personal Info
 
-- 🗓 Born: August 1997 (Age 28)  
-- 🏳 Origin: Baise, Guangxi, China  
+ 
 - 🏛 Political Affiliation: CPC Member
 
 ---
