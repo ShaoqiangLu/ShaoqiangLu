@@ -71,7 +71,7 @@
 - 🥉 3rd Prize, Huawei Cup National Graduate IC Design Contest (2021)
 - 🏅 3rd Prize, National IC Innovation Contest (Northwest Region, 2021)
 - 🏅 2× First-Level Graduate Scholarships, 1× Second-Level 
-- 🎖  3× Outstanding Student Leader, 2× Excellent Communist Youth League Member
+- 🎖&nbsp;&nbsp;3× Outstanding Student Leader, 2× Excellent Communist Youth League Member
 
 ---
 
