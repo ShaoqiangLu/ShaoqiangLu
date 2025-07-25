@@ -44,7 +44,7 @@
    **Shaoqiang Lu**, Yangbo Wei, Junhong Qian, Chen Wu, Xiao Shi, Lei He.  *ICCAD 2025* [CCF-B]
 
 4. **"MambaOPU: An FPGA Overlay Processor for State-space-duality-based Mamba Models"**  
-   **Shaoqiang Lu**, Xuliang Yu, Tiandong Zhao, Siyuan Miao, Xinsong Sheng, Chen Wu, Liang Zhao, Ting-Jung Lin and Lei He.  *DAC 2025* [CCF-A]
+   **Shaoqiang Lu**, Xuliang Yu, Tiandong Zhao, Siyuan Miao, Xinsong Sheng, Chen Wu, et al.  *DAC 2025* [CCF-A]
 
 5. **"MCoreOPU: An FPGA-based Multi-Core Overlay Processor for Transformer-based Models"**  
    **Shaoqiang Lu**, Tiandong Zhao, Ting-Jung Lin, Rumin Zhang, Chen Wu, Lei He.  *ISEDA 2024*, *TRETS Journal* [CCF-B]
