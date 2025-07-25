@@ -28,8 +28,8 @@
 - **Xidian University**, Xi’an, Shaanxi, China  *Sep. 2015 – Jul. 2019*  
   **B.Eng. in Integrated Circuit Design and Integrated Systems**  
 
- **Key Courses**: Digital IC Design (96), Verilog HDL (95.6), FPGA Applications (95), Semiconductor Physics (93), IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Computer Architecture  
- **English Proficiency**: CET-4, CET-6
+** 📚 Key Courses**: Digital IC Design (96), Verilog HDL (95.6), FPGA Applications (95), Semiconductor Physics (93), IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Computer Architecture  
+** 🌐 English Proficiency**: CET-4, CET-6
 
 ---
 
