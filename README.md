@@ -86,7 +86,7 @@
 
 ---
 
-## 💼 Engineering Projects
+## 🧮 Engineering Projects
 
 - RTL design of AI accelerators (Transformer, MoE, Mamba)
 - Compiler frontend/backend development and debugging
