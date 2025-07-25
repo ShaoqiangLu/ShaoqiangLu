@@ -3,13 +3,17 @@
 🎯 **Job Objective**: AI Hardware Acceleration, AI Compiler Design  
 📍 Based in: Ningbo Institute of Industrial Technology, Zhejiang, China  
 📬 **Email**: lushaoqiang@sjtu.edu.cn | 📱 **Phone/WeChat**: +86 182 9189 2870
+
 ---
+
 ## 🧠 Research Interests
 - AI Model Acceleration on FPGA Overlays
 - Hardware/Software Co-Design for Transformers, Mamba, MoE
 - AI Compiler Development (TVM, LLVM)
 - Sparse and Structured Acceleration Architectures
+- 
 ---
+
 ## 🎓 Education
 - **Shanghai Jiao Tong University**  
   Ph.D. in Integrated Circuits Engineering  
