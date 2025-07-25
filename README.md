@@ -1,37 +1,104 @@
-## Hi there 👋
+# 👋 Hi, I'm Shaoqiang Lu
 
-<!--
-**ShaoqiangLu/ShaoqiangLu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Job Objective**: AI Hardware Acceleration, AI Compiler Design  
+📍 Based in: Ningbo Institute of Industrial Technology, Zhejiang, China  
+📬 **Email**: lushaoqiang@sjtu.edu.cn | 📱 **Phone/WeChat**: +86 182 9189 2870
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-对学生的态度是什么？What is the attitude towards students?
+## 🧠 Research Interests
 
-以培养你的研究思维为主，亲自把关你的idea，帮助你润色论文。Train your research thinking skills, personally reviewing your ideas and polishing your papers.
-不需要你996，但希望你能按时完成我给的任务。You are not required to work from 9am to 9pm, but you are expected to complete the tasks on time.
+- AI Model Acceleration on FPGAs
+- Overlay Processor Architecture Design
+- AI Compiler Frontend & Backend (TVM / LLVM)
+- Hardware/Software Co-Design for Transformers, Mamba, MoE, and Diffusion Models
 
-希望你能按时毕业。I hope that all students can graduate on time.
-不存在打卡制度，希望你作为一名硕士/博士研究生，拥有基本的自律意识。There is no office check-in; you should have a sense of self-discipline as a master/doctoral student.
-对学生有什么要求？What are the requirements for students?
-具有一定的辩证性思维：请不要对我说的每一句话表示肯定，我也会有出错的时候。Possess critical thinking: please do not affirm everything I said, as I can also make mistakes.
-具有较强的逻辑思维能力。Possess logical thinking ability.
-具有试错的勇气：我们的方向并非一蹴而就，常出现提出一个想法但实验发现不
+---
 
-可行的情况，请做好充分的心理准备。Have the courage to try and make mistakes: our research is not achieved overnight, and it is common to propose an idea that does not work, so be mentally prepared.
-有清晰的自我规划与目标：例如读博/硕士毕业后的打算。Have a clear plan and goals, such as post-graduation plans after getting a Ph.D./master's degree.
-有一定的工程能力，主要包括软件（C、C++、Python、CUDA）和硬件（Verilog）。Have a certain level of engineering ability, mainly including software (C, C++, Python, CUDA) and hardware (Verilog).
-有基础的体系结构相关知识与背景。Have a basic knowledge and background on computer architecture.
-对学生的培养流程是什么？What is the process for mentoring students?
+## 📚 Selected Publications
 
-初期，希望教会你如何选择一篇好论文进行阅读。In the initial stage, guide you in selecting a good paper for reading and writing.
-中期，希望教会你如何提出idea并通过我们共同的反复打磨形成你的第一篇论文。In the middle stage, teach you how to propose ideas and do experiments(with a lot of trial and error).
-末期，希望教会你独立科研的能力。In the final stage, focus on developing the ability to conduct independent scientific research.
+1. **He Lei**, **Wang Kun**, **Wu Chen**, **Tao Zhuofu**, **Shi Xiao**, **Miao Siyuan**, **Lu Shaoqiang**,  
+   *“FPGA Overlay Processor for Accelerating AI Computation”*, *Science China: Information Sciences*
+
+2. **Shaoqiang Lu**, **Yangbo Wei** et al.,  
+   *“MoE-OPU: An FPGA Overlay Processor Leveraging Expert Parallelism for MoE-based Large Language Models”*,  
+   **ICCAD 2025** [CCF-B]
+
+3. **Shaoqiang Lu**, **Xuliang Yu** et al.,  
+   *“MambaOPU: An FPGA Overlay Processor for State-space-duality-based Mamba Models”*,  
+   **DAC 2025** [CCF-A]
+
+4. **Shaoqiang Lu** et al.,  
+   *“MCoreOPU: An FPGA-based Multi-Core Overlay Processor for Transformer-based Models”*,  
+   **ISEDA 2024**, *TRETS Journal* [CCF-B]
+
+5. **Tiandong Zhao**, **Shaoqiang Lu** et al.,  
+   *“ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity”*,  
+   **ICCAD 2024** [CCF-B]
+
+6. **Tiandong Zhao**, **Siyuan Miao**, **Shaoqiang Lu** et al.,  
+   *“Towards A Reconfigurable Systolic Array with Multi-Level Packing for Transformers”*,  
+   **FPL 2023** [CCF-C]
+
+---
+
+## 🛠 Technical Skills
+
+- **Languages**: Verilog HDL (daily use), Python (AI & tools), C (embedded), C++ (compiler)
+- **Frameworks**: PyTorch, TensorFlow, TVM, LLVM
+- **Deep Learning Models**: BERT-base, ViT-base, GPT-2, LLaMA-7B, Stable Diffusion, YOLOv7, AlexNet, VGG16, ResNet50  
+  _(Trained on A100 GPUs)_
+- **Tools & Platforms**: Vivado, ModelSim, CUDA, Linux, FPGA (Xilinx U200)
+
+---
+
+## 💼 Project Experience
+
+- Developed RTL designs for FPGA-based AI accelerators
+- Built compiler frontend/backend for overlay processor toolchains
+- Performed GPU-based AI model profiling and performance optimization
+- Integrated Transformer/Mamba/MoE models into custom hardware workflows
+
+---
+
+## 🏆 Honors & Awards
+
+- 🥈 **2nd Prize**, 2020 “Huawei Cup” National Graduate IC Design Contest
+- 🥉 **3rd Prize**, 2021 “Huawei Cup” National Graduate IC Design Contest
+- 🏅 **3rd Prize**, 2021 National Undergraduate IC Innovation Contest (Northwest Division)
+- 🎓 **Scholarships**: 2× First-Class Graduate Scholarship, 1× Second-Class  
+- 🎖 **Honors**: 3× Outstanding Student Leader, 2× Excellent Youth League Member
+
+---
+
+## 🎓 Education
+
+- 📍 **Shanghai Jiao Tong University**  
+  Ph.D. in Integrated Circuits Engineering  
+  School of Electronic Information and Electrical Engineering  
+  *2022.09 – 2026.07*
+
+- 📍 **Xidian University**  
+  M.Eng. in Software Engineering (IC Design)  
+  *2019.09 – 2022.07*  
+  GPA: 3.01/4.0 | Ranking: Top 8% – 2nd Year
+
+- 📍 **Xidian University**  
+  B.Eng. in IC Design and Integrated Systems  
+  *2015.09 – 2019.07*
+
+**Major Courses**: Digital IC Design, Verilog Design, FPGA Application, Semiconductor Physics, IC Process Technology, EDA, Analog IC Design, Embedded C, Advanced Computer Systems
+
+---
+
+## 🧾 Additional Info
+
+- 🗓 Born: Aug 1997 (Age 28)  
+- 🏳 Origin: Baise, Guangxi Province  
+- 🏛 Political Status: CPC Member  
+- 📜 English Proficiency: CET-4, CET-6  
+
+---
+
+> 🌟 *I'm passionate about building high-performance AI systems from the silicon up to the compiler layer. Always open to new research collaborations and industry opportunities.*
+
