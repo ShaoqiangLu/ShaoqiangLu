@@ -28,8 +28,7 @@
 - **Xidian University**, Xi’an, Shaanxi, China  *Sep. 2015 – Jul. 2019*  
   **B.Eng. in Integrated Circuit Design and Integrated Systems**  
 
-📚**Key Courses**: 
- Digital IC Design (96), Verilog HDL (95.6), FPGA Applications (95), Semiconductor Physics (93), IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Computer Architecture  
+📚**Key Courses**: Digital IC Design (96), Verilog HDL (95.6), FPGA Applications (95), Semiconductor Physics (93), IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Computer Architecture  
 🌐**English Proficiency**: CET-4, CET-6
 
 ---
@@ -70,8 +69,8 @@
 - 🥈 2nd Prize, Huawei Cup National Graduate IC Design Contest (2020)
 - 🥉 3rd Prize, Huawei Cup National Graduate IC Design Contest (2021)
 - 🏅 3rd Prize, National IC Innovation Contest (Northwest Region, 2021)
-- 🏅 🏅 2× First-Level Graduate Scholarships, 1× Second-Level 
-- 🎖 3× Outstanding Student Leader, 2× Excellent Communist Youth League Member
+- 🏅 2× First-Level Graduate Scholarships, 1× Second-Level 
+- 🎖  3× Outstanding Student Leader, 2× Excellent Communist Youth League Member
 
 ---
 
