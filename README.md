@@ -34,13 +34,13 @@
 
 ## 📚 Selected Publications
 
-1. **"MambaOPU: An FPGA Overlay Processor for State-space-duality-based Mamba Models"**  
+1. **"MambaOPU: An FPGA Overlay Processor for State-space-duality-based Mamba Models"(http://eda.ee.ucla.edu/openOPU.html)**  
    <u>Shaoqiang Lu</u>, Xuliang Yu, Tiandong Zhao, Siyuan Miao, Xinsong Sheng, Chen Wu, et al.  *DAC 2025* [CCF-A]
 
 2. **"MoE-OPU: An FPGA Overlay Processor Leveraging Expert Parallelism for MoE-based Large Language Models"**  
    **Shaoqiang Lu**, Yangbo Wei, Junhong Qian, Chen Wu, Xiao Shi, Lei He.  *ICCAD 2025* [CCF-B]
 
-3. **"MCoreOPU: An FPGA-based Multi-Core Overlay Processor for Transformer-based Models"**  
+3. **"MCoreOPU: An FPGA-based Multi-Core Overlay Processor for Transformer-based Models"(https://dl.acm.org/doi/10.1145/3742437)**  
    **Shaoqiang Lu**, Tiandong Zhao, Ting-Jung Lin, Rumin Zhang, Chen Wu, Lei He.  *ISEDA 2024*, *TRETS Journal* [CCF-B]
 
 4. **"ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity"**  
