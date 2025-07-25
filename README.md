@@ -1,6 +1,6 @@
 # 😄 Hi, I'm Shaoqiang Lu
 
-💼 **Job Objective**: AI Hardware Acceleration, AI Compiler Design  
+💼 **Job Objective**: AI Hardware Acceleration, AI Model Deployment, Digital Chip Design  
 🔻 Based: No. 1, Kaiyuan New Youth Plaza, Ningbo, Zhejiang, China  
 🗓 Born: August 1997 (Age 28)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏠 Hometown: Guangxi, China  
 📬 **Email**: [lushaoqiang@sjtu.edu.cn](#)  |  📱 **WeChat**: [lushaoqiang2022](#)💬  
