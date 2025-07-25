@@ -2,8 +2,7 @@
 
 🎯 **Job Objective**: AI Hardware Acceleration, AI Compiler Design  
 📍 Based in: Ningbo Institute of Industrial Technology, Zhejiang, China  
-🗓 Born: August 1997 (Age 28)  
-🏳 Origin: Baise, Guangxi, China 
+🗓 Born: August 1997 (Age 28)  🏳 Origin: Baise, Guangxi, China  
 📬 **Email**: lushaoqiang@sjtu.edu.cn | 📱 **Phone/WeChat**: +86 182 9189 2870
 
 ---
