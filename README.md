@@ -23,7 +23,7 @@
   
 - **Xidian University** &nbsp;&nbsp;&nbsp;&nbsp; Xi’an, Shaanxi, China  *2019.9 ~ 2022.6*  
   **M.Eng. in Software Engineering (Integrated Circuit Design)**, National Demonstration School of Microelectronics  
-  Ranking: Year 1: 8/188, Year 2: 4/188
+  Degree Course Ranking: 35/188 &nbsp;&nbsp;&nbsp;&nbsp; Total Evaluation Ranking : 2nd Year 8/188, 3rd Year 4/188
 
 - **Xidian University** &nbsp;&nbsp;&nbsp;&nbsp; Xi’an, Shaanxi, China  *2015.9 ~ 2019.6*  
   **B.Eng. in Integrated Circuit Design and Integrated Systems**  
