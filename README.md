@@ -11,7 +11,6 @@
 - Hardware/Software Co-Design for Transformers, Mamba, MoE
 - AI Compiler Development (TVM, LLVM)
 - Sparse and Structured Acceleration Architectures
-- 
 ---
 
 ## 🎓 Education
