@@ -36,7 +36,7 @@
 
 ## 📜 Published Papers 
 
-> *Supervisor: Prof. Lei He – Principal Investigator (PI), Chair Professor at Ningbo Institute of Technology, Tenured Professor at UCLA, IEEE Fellow*    
+> *Supervisor: Prof. [Lei He](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=en) – Principal Investigator (PI), Chair Professor at Ningbo Institute of Technology, Tenured Professor at UCLA, IEEE Fellow*    
 
 1. **"MambaOPU: An FPGA Overlay Processor for State-space-duality-based Mamba Models" [**cite**](http://eda.ee.ucla.edu/openOPU.html)**  
    <ins>Shaoqiang Lu</ins>, Xuliang Yu, Tiandong Zhao, Siyuan Miao, Xinsong Sheng, Chen Wu, et al.  *DAC 2025* [CCF-A]
