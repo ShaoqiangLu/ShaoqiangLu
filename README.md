@@ -34,29 +34,43 @@
 
 ## 📚 Selected Publications
 
-1. **"FPGA Overlay Processor for Accelerating AI Computation"**  
-   He Lei, Wang Kun, Wu Chen, Tao Zhuofu, Shi Xiao, Miao Siyuan, **Lu Shaoqiang**  
+1. **"dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models"**  
+   Yangbo Wei, **Shaoqiang Lu**, Junhong Qian, Chen Wu, Xiao Shi, Lei He.  
+   *ASP-DAC 2025* [CCF-C] *under review*
+
+2. **"FPGA Overlay Processor for Accelerating AI Computation"**  
+   He Lei, Wang Kun, Wu Chen, Tao Zhuofu, Shi Xiao, Miao Siyuan, **Lu Shaoqiang**.  
    *Science China: Information Sciences*
 
-2. **"MoE-OPU: An FPGA Overlay Processor Leveraging Expert Parallelism for MoE-based Large Language Models"**  
-   **Shaoqiang Lu**, Yangbo Wei, et al.  
+3. **"MoE-OPU: An FPGA Overlay Processor Leveraging Expert Parallelism for MoE-based Large Language Models"**  
+   **Shaoqiang Lu**, Yangbo Wei, Junhong Qian, Chen Wu, Xiao Shi, Lei He.  
    *ICCAD 2025* [CCF-B]
 
-3. **"MambaOPU: An FPGA Overlay Processor for State-space-duality-based Mamba Models"**  
-   **Shaoqiang Lu**, Xuliang Yu, et al.  
+4. **"MambaOPU: An FPGA Overlay Processor for State-space-duality-based Mamba Models"**  
+   **Shaoqiang Lu**, Xuliang Yu, Tiandong Zhao, Siyuan Miao, Xinsong Sheng, Chen Wu, Liang Zhao, Ting-Jung Lin and Lei He.  
    *DAC 2025* [CCF-A]
 
-4. **"MCoreOPU: An FPGA-based Multi-Core Overlay Processor for Transformer-based Models"**  
-   **Shaoqiang Lu**, et al.  
+5. **"MCoreOPU: An FPGA-based Multi-Core Overlay Processor for Transformer-based Models"**  
+   **Shaoqiang Lu**, Tiandong Zhao, Ting-Jung Lin, Rumin Zhang, Chen Wu, Lei He.  
    *ISEDA 2024*, *TRETS Journal* [CCF-B]
 
-5. **"ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity"**  
-   Tiandong Zhao, **Shaoqiang Lu**, et al.  
+6. **"ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity"**  
+   Tiandong Zhao, **Shaoqiang Lu**, Chen Wu, Lei He.  
    *ICCAD 2024* [CCF-B]
 
-6. **"Towards A Reconfigurable Systolic Array with Multi-Level Packing for Transformers"**  
-   Tiandong Zhao, Siyuan Miao, **Shaoqiang Lu**, et al.  
+7. **"Token Packing for Transformers with Variable-Length Inputs"**  
+   Tiandong Zhao, Siyuan Miao, **Shaoqiang Lu**, Jialin Cao, Jun Qiu, Xiao Shi, Kun Wang, Lei He.  
    *FPL 2023* [CCF-C]
+   
+8. **"C2OPU: Hybrid Compute-in-Memory and Coarse-Grained Reconfigurable Architecture for Overlay Processing of Transformers"**  
+   Siyuan Miao, Lingkang Zhu, Chen Wu, **Shaoqiang Lu**, Jinming Lyu, Lei He
+   *FCCM 2025*
+   
+9. **"METAL: A Memory-Efficient Transformer Architecture for Long-Context Inference on FPGA"**  
+   Zicheng He, **Shaoqiang Lu**, Tiandong Zhao, Chen Wu, Lei He.
+   *ASAP 2025*
+
+
 
 ---
 
