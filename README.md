@@ -2,9 +2,9 @@
 
 🎯 **Job Objective**: AI Hardware Acceleration, AI Compiler Design  
 🔻 Based: Ningbo Institute of Industrial Technology, Zhejiang, China  
-🗓 Born: August 1997 (Age 28)  🏳 Origin: Baise, Guangxi, China  
-📬 **Email**: [lushaoqiang@sjtu.edu.cn](#)  |  📱 **Phone/WeChat**: [+86 182 9189 2870](#)  
-🔗 [Google Scholar](https://scholar.google.com/citations?hl=en&user=VMm9FnEAAAAJ) • [IEEE](https://ieeexplore.ieee.org/author/37090071689) • [ACM](https://dl.acm.org/profile/99661548970) • [GitHub](https://github.com/ShaoqiangLu) • [Patents](https://www.patentstar.com.cn/Search/ResultList?CurrentQuery=6ZmG5bCR5by6L0lO&type=cn)
+🗓 Born: August 1997 (Age 28)  🏠 Origin: Baise, Guangxi, China  
+📬 **Email**: [lushaoqiang@sjtu.edu.cn](#)  |  📱 **WeChat**: [+86 lushaoqiang2022](#)  
+🔗 [Google Scholar](https://scholar.google.com/citations?hl=en&user=VMm9FnEAAAAJ)  •  [IEEE](https://ieeexplore.ieee.org/author/37090071689)  •  [ACM](https://dl.acm.org/profile/99661548970)  •  [GitHub](https://github.com/ShaoqiangLu)  •  [Patents](https://www.patentstar.com.cn/Search/ResultList?CurrentQuery=6ZmG5bCR5by6L0lO&type=cn)
 
 ---
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 📚 Selected Publications
+## 📜 Published Papers 
 
 1. **"MambaOPU: An FPGA Overlay Processor for State-space-duality-based Mamba Models" [**cite**](#)**  
    <ins>Shaoqiang Lu</ins>, Xuliang Yu, Tiandong Zhao, Siyuan Miao, Xinsong Sheng, Chen Wu, et al.  *DAC 2025* [CCF-A]
@@ -69,7 +69,7 @@
 - 🥈 2nd Prize, Huawei Cup National Graduate IC Design Contest (2020)
 - 🥉 3rd Prize, Huawei Cup National Graduate IC Design Contest (2021)
 - 🏅 3rd Prize, National IC Innovation Contest (Northwest Region, 2021)
-- 🎓 2× First-Class Graduate Scholarships, 1× Second-Class
+- 🏅 2× First-Class Graduate Scholarships, 1× Second-Class
 - 🎖 3× Outstanding Student Leader, 2× Excellent Communist Youth League Member
 
 ---
