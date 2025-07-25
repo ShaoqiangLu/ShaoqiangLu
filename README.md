@@ -58,6 +58,16 @@
 
 ---
 
+## 🏆 Awards
+
+- 🥈 2nd Prize, Huawei Cup National Graduate IC Design Contest (2020)
+- 🥉 3rd Prize, Huawei Cup National Graduate IC Design Contest (2021)
+- 🏅 3rd Prize, National IC Innovation Contest (Northwest Region, 2021)
+- 🎓 2× First-Class Graduate Scholarships, 1× Second-Class
+- 🎖 3× Outstanding Student Leader, 2× Excellent Communist Youth League Member
+
+---
+
 ## 🛠 Skills Summary
 
 - **Languages**: Verilog HDL (daily), Python (AI & tools), C (embedded), C++ (compiler)
@@ -72,23 +82,6 @@
 - RTL design of AI accelerators (Transformer, MoE, Mamba)
 - Compiler frontend/backend development and debugging
 - GPU-based AI model profiling and performance analysis
-
----
-
-## 🏆 Awards
-
-- 🥈 2nd Prize, Huawei Cup National Graduate IC Design Contest (2020)
-- 🥉 3rd Prize, Huawei Cup National Graduate IC Design Contest (2021)
-- 🏅 3rd Prize, National IC Innovation Contest (Northwest Region, 2021)
-- 🎓 2× First-Class Graduate Scholarships, 1× Second-Class
-- 🎖 3× Outstanding Student Leader, 2× Excellent Communist Youth League Member
-
----
-
-## 🧾 Personal Info
-
- 
-- 🏛 Political Affiliation: CPC Member
 
 ---
 
