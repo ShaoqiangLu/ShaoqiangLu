@@ -50,11 +50,11 @@
 4. **"ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity" [**cite**](https://dl.acm.org/doi/10.1145/3676536.3676761)**  
    Tiandong Zhao, <ins>Shaoqiang Lu</ins>, Chen Wu, Lei He.  *ICCAD 2024* [CCF-B]
 
-5. **"METAL: A Memory-Efficient Transformer Architecture for Long-Context Inference on FPGA" [**cite**](http://eda.ee.ucla.edu/openOPU.html)**  
-   Zicheng He, <ins>Shaoqiang Lu</ins>, Tiandong Zhao, Chen Wu, Lei He.  *ASAP 2025*
-
-6. **"dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models" [**cite**](http://eda.ee.ucla.edu/openOPU.html)**  
+5. **"dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models" [**cite**](http://eda.ee.ucla.edu/openOPU.html)**  
    Yangbo Wei, <ins>Shaoqiang Lu</ins>, Junhong Qian, Chen Wu, Xiao Shi, Lei He.  *ASP-DAC 2025* [CCF-C] *under review*
+
+6. **"METAL: A Memory-Efficient Transformer Architecture for Long-Context Inference on FPGA" [**cite**](http://eda.ee.ucla.edu/openOPU.html)**  
+   Zicheng He, <ins>Shaoqiang Lu</ins>, Tiandong Zhao, Chen Wu, Lei He.  *ASAP 2025*
 
 7. **"Token Packing for Transformers with Variable-Length Inputs" [**cite**](https://ieeexplore.ieee.org/document/10296372)**  
    Tiandong Zhao, Siyuan Miao, <ins>Shaoqiang Lu</ins>, Jialin Cao, Jun Qiu, Xiao Shi, Kun Wang, Lei He.  *FPL 2023* [CCF-C]
