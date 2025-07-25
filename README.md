@@ -34,31 +34,31 @@
 
 ## 📚 Selected Publications
 
-1. **"MambaOPU: An FPGA Overlay Processor for State-space-duality-based Mamba Models"[📄](http://eda.ee.ucla.edu/openOPU.html**  
+1. **"MambaOPU: An FPGA Overlay Processor for State-space-duality-based Mamba Models"[**cite**](http://eda.ee.ucla.edu/openOPU.html**  
    <ins>Shaoqiang Lu</ins>, Xuliang Yu, Tiandong Zhao, Siyuan Miao, Xinsong Sheng, Chen Wu, et al.  *DAC 2025* [CCF-A]
 
-2. **"MoE-OPU: An FPGA Overlay Processor Leveraging Expert Parallelism for MoE-based Large Language Models"[📄](http://eda.ee.ucla.edu/openOPU.html**  
+2. **"MoE-OPU: An FPGA Overlay Processor Leveraging Expert Parallelism for MoE-based Large Language Models[**cite**](http://eda.ee.ucla.edu/openOPU.html**  
    <ins>Shaoqiang Lu</ins>, Yangbo Wei, Junhong Qian, Chen Wu, Xiao Shi, Lei He.  *ICCAD 2025* [CCF-B]
 
-3. **"MCoreOPU: An FPGA-based Multi-Core Overlay Processor for Transformer-based Models"[📄](https://dl.acm.org/doi/10.1145/3742437)**  
+3. **"MCoreOPU: An FPGA-based Multi-Core Overlay Processor for Transformer-based Models"[**cite**](https://dl.acm.org/doi/10.1145/3742437)**  
    <ins>Shaoqiang Lu</ins>, Tiandong Zhao, Ting-Jung Lin, Rumin Zhang, Chen Wu, Lei He.  *ISEDA 2024*, *TRETS Journal* [CCF-B]
 
-4. **"ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity"[📄](https://dl.acm.org/doi/10.1145/3742437)**  
+4. **"ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity"[**cite**](https://dl.acm.org/doi/10.1145/3742437)**  
    Tiandong Zhao, <ins>Shaoqiang Lu</ins>, Chen Wu, Lei He.  *ICCAD 2024* [CCF-B]
 
-5. **"METAL: A Memory-Efficient Transformer Architecture for Long-Context Inference on FPGA"[📄](https://dl.acm.org/doi/10.1145/3742437)**  
+5. **"METAL: A Memory-Efficient Transformer Architecture for Long-Context Inference on FPGA"[**cite**](https://dl.acm.org/doi/10.1145/3742437)**  
    Zicheng He, <ins>Shaoqiang Lu</ins>, Tiandong Zhao, Chen Wu, Lei He.  *ASAP 2025*
 
-6. **"dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models"[📄](https://dl.acm.org/doi/10.1145/3742437)**  
+6. **"dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models"[**cite**](https://dl.acm.org/doi/10.1145/3742437)**  
    Yangbo Wei, <ins>Shaoqiang Lu</ins>, Junhong Qian, Chen Wu, Xiao Shi, Lei He.  *ASP-DAC 2025* [CCF-C] *under review*
 
-7. **"Token Packing for Transformers with Variable-Length Inputs"[📄](https://dl.acm.org/doi/10.1145/3742437)**  
+7. **"Token Packing for Transformers with Variable-Length Inputs"[**cite**](https://dl.acm.org/doi/10.1145/3742437)**  
    Tiandong Zhao, Siyuan Miao, <ins>Shaoqiang Lu</ins>, Jialin Cao, Jun Qiu, Xiao Shi, Kun Wang, Lei He.  *FPL 2023* [CCF-C]
 
-8. **"C2OPU: Hybrid Compute-in-Memory and Coarse-Grained Reconfigurable Architecture for Overlay Processing of Transformers"[📄](https://dl.acm.org/doi/10.1145/3742437)**  
+8. **"C2OPU: Hybrid Compute-in-Memory and Coarse-Grained Reconfigurable Architecture for Overlay Processing of Transformers"[**cite**](https://dl.acm.org/doi/10.1145/3742437)**  
    Siyuan Miao, Lingkang Zhu, Chen Wu, <ins>Shaoqiang Lu</ins>, Jinming Lyu, Lei He.  *FCCM 2025*
    
-9. **"FPGA Overlay Processor for Accelerating AI Computation"[📄](https://dl.acm.org/doi/10.1145/3742437)**  
+9. **"FPGA Overlay Processor for Accelerating AI Computation"[**cite**](https://dl.acm.org/doi/10.1145/3742437)**  
    He Lei, Wang Kun, Wu Chen, Tao Zhuofu, Shi Xiao, Miao Siyuan, <ins>Shaoqiang Lu</ins>. *Science China: Information Sciences*
 
 ---
