@@ -16,18 +16,19 @@
 
 ## 🎓 Education
 
-### ![](https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Shanghai_Jiao_Tong_University_Seal.svg/60px-Shanghai_Jiao_Tong_University_Seal.svg.png) Shanghai Jiao Tong University, Shanghai, China  
-**Ph.D. in Integrated Circuits Engineering**, School of Electronic Information and Electrical Engineering  
-*Sep. 2022 – Jul. 2026*
+- **Shanghai Jiao Tong University**, Shanghai, China  
+  **Ph.D. in Integrated Circuits Engineering**, School of Electronic Information and Electrical Engineering  
+  *Sep. 2022 – Jul. 2026*
 
-### ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Xidian_University_logo.svg/60px-Xidian_University_logo.svg.png) Xidian University, Xi’an, Shaanxi, China  
-**M.Eng. in Software Engineering (IC Design Track)**, National Demonstration School of Microelectronics  
-*Sep. 2019 – Jul. 2022*  
-GPA: 3.01/4.0 | Ranking: Year 1: 8/188, Year 2: 4/188
+- **Xidian University**, Xi’an, Shaanxi, China  
+  **M.Eng. in Software Engineering (Integrated Circuit Design Track)**, National Demonstration School of Microelectronics  
+  *Sep. 2019 – Jul. 2022*  
+  GPA: 3.01/4.0 | Ranking: Year 1: 8/188, Year 2: 4/188
 
-### ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Xidian_University_logo.svg/60px-Xidian_University_logo.svg.png) Xidian University, Xi’an, Shaanxi, China  
-**B.Eng. in Integrated Circuit Design and Integrated Systems**  
-*Sep. 2015 – Jul. 2019*
+- **Xidian University**, Xi’an, Shaanxi, China  
+  **B.Eng. in Integrated Circuit Design and Integrated Systems**  
+  *Sep. 2015 – Jul. 2019*
+
 
 **Key Courses**: Digital IC Design (96), Verilog HDL (95.6), FPGA Applications (95), Semiconductor Physics (93), IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Computer Architecture  
 **English Proficiency**: CET-4, CET-6
