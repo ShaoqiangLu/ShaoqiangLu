@@ -16,19 +16,16 @@
 
 ## 🎓 Education
 
-- **Shanghai Jiao Tong University**, Shanghai, China  
+- **Shanghai Jiao Tong University**, Shanghai, China  *Sep. 2022 – Jul. 2026*  
   **Ph.D. in Integrated Circuits Engineering**, School of Electronic Information and Electrical Engineering  
-  *Sep. 2022 – Jul. 2026*
-
-- **Xidian University**, Xi’an, Shaanxi, China  
+  GPA: 3.01/4.0
+  
+- **Xidian University**, Xi’an, Shaanxi, China  *Sep. 2019 – Jul. 2022*  
   **M.Eng. in Software Engineering (Integrated Circuit Design Track)**, National Demonstration School of Microelectronics  
-  *Sep. 2019 – Jul. 2022*  
-  GPA: 3.01/4.0 | Ranking: Year 1: 8/188, Year 2: 4/188
+  Ranking: Year 1: 8/188, Year 2: 4/188
 
-- **Xidian University**, Xi’an, Shaanxi, China  
+- **Xidian University**, Xi’an, Shaanxi, China  *Sep. 2015 – Jul. 2019* 
   **B.Eng. in Integrated Circuit Design and Integrated Systems**  
-  *Sep. 2015 – Jul. 2019*
-
 
 **Key Courses**: Digital IC Design (96), Verilog HDL (95.6), FPGA Applications (95), Semiconductor Physics (93), IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Computer Architecture  
 **English Proficiency**: CET-4, CET-6
