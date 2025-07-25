@@ -86,7 +86,7 @@
 
 ---
 
-## 🧮 Engineering Projects
+## ⚙️ Engineering Projects
 
 - RTL design of AI accelerators (Transformer, MoE, Mamba)
 - Compiler frontend/backend development and debugging
@@ -94,4 +94,4 @@
 
 ---
 
-> 🤝 *I’m passionate about building high-performance AI systems from silicon architecture to compilers. Open to collaboration and research opportunities in intelligent computing systems.*
+> 🚀 *I’m passionate about building high-performance AI systems from silicon architecture to compilers. Open to collaboration and research opportunities in intelligent computing systems.*
