@@ -3,7 +3,7 @@
 🎯 **Job Objective**: AI Hardware Acceleration, AI Compiler Design  
 📍 Based in: Ningbo Institute of Industrial Technology, Zhejiang, China  
 🗓 Born: August 1997 (Age 28)  🏳 Origin: Baise, Guangxi, China  
-📬 **Email**: lushaoqiang@sjtu.edu.cn | 📱 **Phone/WeChat**: +86 182 9189 2870  
+📬 **Email**: lushaoqiang@sjtu.edu.cn | 📱 **Phone/WeChat**: <span style="color:blue">+86 182 9189 2870</span>
 🔗 [Google Scholar](https://scholar.google.com/citations?hl=en&user=VMm9FnEAAAAJ) • [IEEE](https://ieeexplore.ieee.org/author/37090071689) • [ACM](https://dl.acm.org/profile/99661548970) • [GitHub](https://github.com/ShaoqiangLu)
 
 ---
