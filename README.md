@@ -79,7 +79,7 @@
 
 - **Languages**: Verilog HDL (daily), Python (AI & tools), C (embedded), C++ (compiler)
 - **Frameworks**: PyTorch, TensorFlow, TVM, LLVM
-- **Model Experience**: BERT, ViT, GPT-2, LLaMA-7B, Stable Diffusion, YOLOv7, ResNet, AlexNet, VGG16  
+- **Model**: BERT, ViT, GPT-2, LLaMA-7B, Stable Diffusion, YOLOv7, ResNet, AlexNet, VGG16  
 - **Tools**: Vivado, ModelSim, CUDA, Linux, FPGA (Xilinx U200)
 
 ---
