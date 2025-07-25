@@ -1,6 +1,6 @@
 # 😄 Hi, I'm Shaoqiang Lu
 
-🎯 **Job Objective**: AI Hardware Acceleration, AI Compiler Design  
+💼 **Job Objective**: AI Hardware Acceleration, AI Compiler Design  
 🔻 Based: Ningbo Institute of Industrial Technology, Zhejiang, China  
 🗓 Born: August 1997 (Age 28)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏠 Hometown: Baise, Guangxi, China  
 📬 **Email**: [lushaoqiang@sjtu.edu.cn](#)  |  📱 **WeChat**: [+86 lushaoqiang2022](#)  
@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 Research Interests
+## 💡 Research Interests
 - AI Model Acceleration on FPGA Overlays
 - Hardware/Software Co-Design for Transformers, Mamba, MoE
 - AI Compiler Development (TVM, LLVM)
