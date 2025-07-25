@@ -39,28 +39,28 @@
 > *Supervisor: Prof. [Lei He](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=en) – Principal Investigator (PI), Chair Professor at Ningbo Institute of Technology, Tenured Professor at UCLA, IEEE Fellow*    
 
 1. **"MambaOPU: An FPGA Overlay Processor for State-space-duality-based Mamba Models" [**cite**](http://eda.ee.ucla.edu/openOPU.html)**  
-   <ins>Shaoqiang Lu</ins>, Xuliang Yu, Tiandong Zhao, Siyuan Miao, Xinsong Sheng, Chen Wu, et al.  *DAC 2025* [CCF-A]
+   <ins>Shaoqiang Lu</ins>, Xuliang Yu, Tiandong Zhao, Siyuan Miao, Xinsong Sheng, Chen Wu, et al.  *DAC 2025 [CCF-A]* 
 
 2. **"MoE-OPU: An FPGA Overlay Processor Leveraging Expert Parallelism for MoE-based Large Language Models" [**cite**](http://eda.ee.ucla.edu/openOPU.html)**  
-   <ins>Shaoqiang Lu</ins>, Yangbo Wei, Junhong Qian, Chen Wu, Xiao Shi, Lei He.  *ICCAD 2025* [CCF-B]
+   <ins>Shaoqiang Lu</ins>, Yangbo Wei, Junhong Qian, Chen Wu, Xiao Shi, Lei He.  *ICCAD 2025 [CCF-B]* 
 
 3. **"MCoreOPU: An FPGA-based Multi-Core Overlay Processor for Transformer-based Models" [**cite**](https://dl.acm.org/doi/10.1145/3742437)**  
-   <ins>Shaoqiang Lu</ins>, Tiandong Zhao, Ting-Jung Lin, Rumin Zhang, Chen Wu, Lei He.  *ISEDA 2024*, *TRETS Journal* [CCF-B]
+   <ins>Shaoqiang Lu</ins>, Tiandong Zhao, Ting-Jung Lin, Rumin Zhang, Chen Wu, Lei He.  *ISEDA 2024*, *TRETS Journal [CCF-B]* 
 
 4. **"ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity" [**cite**](https://dl.acm.org/doi/10.1145/3676536.3676761)**  
-   Tiandong Zhao, <ins>Shaoqiang Lu</ins>, Chen Wu, Lei He.  *ICCAD 2024* [CCF-B]
+   Tiandong Zhao, <ins>Shaoqiang Lu</ins>, Chen Wu, Lei He.  *ICCAD 2024 [CCF-B]* 
 
 5. **"dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models" [**cite**](http://eda.ee.ucla.edu/openOPU.html)**  
-   Yangbo Wei, <ins>Shaoqiang Lu</ins>, Junhong Qian, Chen Wu, Xiao Shi, Lei He.  *ASP-DAC 2025* [CCF-C] *under review*
+   Yangbo Wei, <ins>Shaoqiang Lu</ins>, Junhong Qian, Chen Wu, Xiao Shi, Lei He.  *ASP-DAC 2025 [CCF-C] (under review)*   
 
 6. **"METAL: A Memory-Efficient Transformer Architecture for Long-Context Inference on FPGA" [**cite**](http://eda.ee.ucla.edu/openOPU.html)**  
-   Zicheng He, <ins>Shaoqiang Lu</ins>, Tiandong Zhao, Chen Wu, Lei He.  *ASAP 2025*
+   Zicheng He, <ins>Shaoqiang Lu</ins>, Tiandong Zhao, Chen Wu, Lei He.  *ASAP 2025 [CCF-C]*
 
 7. **"Token Packing for Transformers with Variable-Length Inputs" [**cite**](https://ieeexplore.ieee.org/document/10296372)**  
-   Tiandong Zhao, Siyuan Miao, <ins>Shaoqiang Lu</ins>, Jialin Cao, Jun Qiu, Xiao Shi, Kun Wang, Lei He.  *FPL 2023* [CCF-C]
+   Tiandong Zhao, Siyuan Miao, <ins>Shaoqiang Lu</ins>, Jialin Cao, Jun Qiu, Xiao Shi, Kun Wang, Lei He.  *FPL 2023 [CCF-C]* 
 
 8. **"C2OPU: Hybrid Compute-in-Memory and Coarse-Grained Reconfigurable Architecture for Overlay Processing of Transformers" [**cite**](https://ieeexplore.ieee.org/document/11008948)**  
-   Siyuan Miao, Lingkang Zhu, Chen Wu, <ins>Shaoqiang Lu</ins>, Jinming Lyu, Lei He.  *FCCM 2025*
+   Siyuan Miao, Lingkang Zhu, Chen Wu, <ins>Shaoqiang Lu</ins>, Jinming Lyu, Lei He.  *FCCM 2025 [CCF-C]*
    
 9. **"FPGA Overlay processor for AI computing" [**cite**](https://www.sciengine.com/SSI/doi/10.1360/SSI-2024-0351)**  
    He Lei, Wang Kun, Wu Chen, Tao Zhuofu, Shi Xiao, Miao Siyuan, <ins>Shaoqiang Lu</ins>. *Science China: Information Sciences*
