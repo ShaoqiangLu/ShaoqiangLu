@@ -21,7 +21,7 @@
   GPA: 3.01/4.0
   
 - **Xidian University**, Xi’an, Shaanxi, China  *Sep. 2019 – Jul. 2022*  
-  **M.Eng. in Software Engineering (Integrated Circuit Design Track)**, National Demonstration School of Microelectronics  
+  **M.Eng. in Software Engineering (Integrated Circuit Design)**, National Demonstration School of Microelectronics  
   Ranking: Year 1: 8/188, Year 2: 4/188
 
 - **Xidian University**, Xi’an, Shaanxi, China  *Sep. 2015 – Jul. 2019*  
