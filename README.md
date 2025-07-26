@@ -18,17 +18,18 @@
 ## 🎓 Education
 
 - **Shanghai Jiao Tong University** &nbsp;&nbsp;&nbsp;&nbsp; Shanghai, China  *2022.9 ~ 2026.6*  
-  **Ph.D. in Integrated Circuits Engineering**, School of Electronic Information and Electrical Engineering  
+  **Ph.D. degree in Integrated Circuits Engineering**, School of Electronic Information and Electrical Engineering  
   Graduate Thesis: Research on FPGA-based Overlay Processor Unit for Deep Learning Algorithms  
   GPA: 3.01/4.0
   
 - **Xidian University** &nbsp;&nbsp;&nbsp;&nbsp; Xi’an, Shaanxi, China  *2019.9 ~ 2022.6*  
-  **M.Eng. in Software Engineering (Integrated Circuit Design)**, National Demonstration School of Microelectronics  
+  **Master’s degree in Software Engineering (Integrated Circuit Design)**, National Demonstration School of Microelectronics  
   Graduate Thesis: Research and Design of DDR4 PHY Interface Based on the DFI 4.0 Specification  
   Degree Course Ranking: 35/188 &nbsp;&nbsp;&nbsp;&nbsp; Total Evaluation Ranking : 2nd Year 8/188;&nbsp; 3rd Year 4/188  
 
-- **Xidian University** &nbsp;&nbsp;&nbsp;&nbsp; Xi’an, Shaanxi, China  *2015.9 ~ 2019.6*  
-  **B.Eng. in Integrated Circuit Design and Integrated Systems**  
+- **Xidian University** &nbsp;&nbsp;&nbsp;&nbsp; Xi’an, Shaanxi, China  *2015.9 ~ 2019.6*
+  Undergraduate Thesis: The Design of a Terahertz Planar Antenna Based on the Wide Bandgap Semiconductor GaN  
+  **Bachelor’s degree in Integrated Circuit Design and Integrated Systems**  
 
 &nbsp;&nbsp;📚**Key Courses**: Digital IC Design (96), Verilog HDL (95.6), FPGA Applications (95), Semiconductor Physics (93),   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Computer Architecture  
