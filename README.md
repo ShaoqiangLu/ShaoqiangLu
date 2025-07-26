@@ -27,7 +27,7 @@
   Graduate Thesis: Research and Design of DDR4 PHY Interface Based on the DFI 4.0 Specification  
   Degree Course Ranking: 35/188 &nbsp;&nbsp;&nbsp;&nbsp; Total Evaluation Ranking : 2nd Year 8/188;&nbsp; 3rd Year 4/188  
 
-- **Xidian University** &nbsp;&nbsp;&nbsp;&nbsp; Xi’an, Shaanxi, China  *2015.9 ~ 2019.6*
+- **Xidian University** &nbsp;&nbsp;&nbsp;&nbsp; Xi’an, Shaanxi, China  *2015.9 ~ 2019.6*  
   Undergraduate Thesis: The Design of a Terahertz Planar Antenna Based on the Wide Bandgap Semiconductor GaN  
   **Bachelor’s degree in Integrated Circuit Design and Integrated Systems**  
 
