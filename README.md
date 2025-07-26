@@ -79,14 +79,11 @@
 - 🏅 1st Prize (twice), 2nd Prize (once), Academic Scholarship for Master’s Degree Candidates, Xidian University  
 - 🎖️ Excellent Graduate Student Cadre honor (thrice) and Outstanding Student Class Monitor (twice), Xidian University  
 
-
-
-
 ---
 
 ## 🛠 Skills Summary
 
-- **Languages**: Verilog HDL (commonly used); Python (for AI models and daily use); C (embedded with Cortex-M3); C++ (AI compiler)  
+- **Programming**: Verilog HDL (commonly used); Python (for AI models and daily use); C (embedded with Cortex-M3); C++ (AI compiler)  
 - **Model**: BERT-base, ViT-base, GPT-2, LLaMa-7B, LLaDA-8B, Dream-7B, Deepseek-v2-lite, Qwen1.5-MoE-A2.7B. 
 - **Tools**: Vivado(commonly used), ModelSim, FPGA (Xilinx U200,V80), GPU(RTX4090,A100), PyTorch 
 
