@@ -23,7 +23,7 @@
   GPA: 3.01/4.0
   
 - **Xidian University** &nbsp;&nbsp;&nbsp;&nbsp; Xi’an, Shaanxi, China  *2019.9 ~ 2022.6*  
-  **Master’s degree in Software Engineering (Integrated Circuit Design)**, National Demonstration School of Microelectronics  
+  **Master’s degree in Integrated Circuit Design**, National Demonstration School of Microelectronics  
   Graduate Thesis: Research and Design of DDR4 PHY Interface Based on the DFI 4.0 Specification  
   Degree Course Ranking: 35/188 &nbsp;&nbsp;&nbsp;&nbsp; Total Evaluation Ranking : 2nd Year 8/188;&nbsp; 3rd Year 4/188  
 
