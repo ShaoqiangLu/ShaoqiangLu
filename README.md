@@ -73,11 +73,11 @@
 
 ## 🏆 Awards
 
-- 🥈 2nd Prize, the 3rd "Huawei Cup" China Graduate Chip Innovation Competition, and Special First Prize from Shanghai S2C Technology Company (2020)  
-- 🥉 3rd Prize, the 4th "Huawei Cup" China Graduate Chip Innovation Competition, and Special First Prize from Shanghai GalaxyCore Technology Company (2021)  
-- 🏅 3rd Prize, the 5th National College Student Integrated Circuit Innovation and Entrepreneurship Competition (Northwest Region, 2021)  
+- 🥈 2nd Prize, the 3rd "Huawei Cup" China Graduate Chip Innovation Competition, and Special First Prize from S2C Technology Company (2020)  
+- 🥉 3rd Prize, the 4th "Huawei Cup" China Graduate Chip Innovation Competition, and Special First Prize from GalaxyCore Technology Company (2021)  
+- 🏅 3rd Prize, the 5th National College Student Integrated Circuit Innovation and Entrepreneurship Competition (2021)  
 - 🏅 1st Prize (twice), 2nd Prize (once), Academic Scholarship for Master’s Degree Candidates, Xidian University  
-- 🎖️ “Excellent Graduate Student Cadre” honor (3 times) and the “Outstanding Communist Youth League Member” (2 times), Xidian University  
+- 🎖️ Excellent Graduate Student Cadre honor (thrice) and Outstanding Communist Youth League Member (twice), Xidian University  
 
 
 
