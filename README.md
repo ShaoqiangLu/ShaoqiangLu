@@ -77,7 +77,7 @@
 - 🥉 3rd Prize, the 4th "Huawei Cup" China Graduate Chip Innovation Competition, Special First Prize GalaxyCore Technology Co., Ltd (2021)  
 - 🏅 3rd Prize, the 5th National College Student Integrated Circuit Innovation and Entrepreneurship Competition (2021)  
 - 🏅 1st Prize (twice), 2nd Prize (once), Academic Scholarship for Master’s Degree Candidates, Xidian University  
-- 🎖️ Excellent Graduate Student Cadre honor (thrice) and Outstanding Communist Youth League Member (twice), Xidian University  
+- 🎖️ Excellent Graduate Student Cadre honor (thrice) and Outstanding Student Class Monitor (twice), Xidian University  
 
 
 
