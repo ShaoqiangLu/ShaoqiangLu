@@ -42,10 +42,10 @@
 
 > *👨‍🏫 Prof. [Lei He](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=en) – Principal Investigator (PI), Chair Professor at Eastern Institute of Technology, Tenured Professor at UCLA, IEEE Fellow*    
 
-1. **"MambaOPU: An FPGA Overlay Processor for State-space-duality-based Mamba Models" [**cite**](http://eda.ee.ucla.edu/openOPU.html)**  
+1. **"MambaOPU: An FPGA Overlay Processor for State-space-duality-based Mamba Models" [**cite**]**  
    <ins>Shaoqiang Lu</ins>, Xuliang Yu, Tiandong Zhao, Siyuan Miao, Xinsong Sheng, Chen Wu, et al.  *DAC 2025 [CCF-A]* 
 
-2. **"MoE-OPU: An FPGA Overlay Processor Leveraging Expert Parallelism for MoE-based Large Language Models" [**cite**](http://eda.ee.ucla.edu/openOPU.html)**  
+2. **"MoE-OPU: An FPGA Overlay Processor Leveraging Expert Parallelism for MoE-based Large Language Models" [**cite**]**  
    <ins>Shaoqiang Lu</ins>, Yangbo Wei, Junhong Qian, Chen Wu, Xiao Shi, Lei He.  *ICCAD 2025 [CCF-B]* 
 
 3. **"MCoreOPU: An FPGA-based Multi-Core Overlay Processor for Transformer-based Models" [**cite**](https://dl.acm.org/doi/10.1145/3742437)**  
@@ -54,10 +54,10 @@
 4. **"ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity" [**cite**](https://dl.acm.org/doi/10.1145/3676536.3676761)**  
    Tiandong Zhao, <ins>Shaoqiang Lu</ins>, Chen Wu, Lei He.  *ICCAD 2024 [CCF-B]* 
 
-5. **"dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models" [**cite**](http://eda.ee.ucla.edu/openOPU.html)**  
+5. **"dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models" [**cite**]**  
    Yangbo Wei, <ins>Shaoqiang Lu</ins>, Junhong Qian, Chen Wu, Xiao Shi, Lei He.  *ASP-DAC 2026 [CCF-C] (under review)*   
 
-6. **"METAL: A Memory-Efficient Transformer Architecture for Long-Context Inference on FPGA" [**cite**](http://eda.ee.ucla.edu/openOPU.html)**  
+6. **"METAL: A Memory-Efficient Transformer Architecture for Long-Context Inference on FPGA" [**cite**]**  
    Zicheng He, <ins>Shaoqiang Lu</ins>, Tiandong Zhao, Chen Wu, Lei He.  *ASAP 2025 [CCF-C]*
 
 7. **"Token Packing for Transformers with Variable-Length Inputs" [**cite**](https://ieeexplore.ieee.org/document/10296372)**  
