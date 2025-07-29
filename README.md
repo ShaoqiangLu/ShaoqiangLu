@@ -55,7 +55,7 @@
    Tiandong Zhao, <ins>Shaoqiang Lu</ins>, Chen Wu, Lei He.  *ICCAD 2024 [CCF-B]* 
 
 5. **"dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models" [**cite**](http://eda.ee.ucla.edu/openOPU.html)**  
-   Yangbo Wei, <ins>Shaoqiang Lu</ins>, Junhong Qian, Chen Wu, Xiao Shi, Lei He.  *ASP-DAC 2025 [CCF-C] (under review)*   
+   Yangbo Wei, <ins>Shaoqiang Lu</ins>, Junhong Qian, Chen Wu, Xiao Shi, Lei He.  *ASP-DAC 2026 [CCF-C] (under review)*   
 
 6. **"METAL: A Memory-Efficient Transformer Architecture for Long-Context Inference on FPGA" [**cite**](http://eda.ee.ucla.edu/openOPU.html)**  
    Zicheng He, <ins>Shaoqiang Lu</ins>, Tiandong Zhao, Chen Wu, Lei He.  *ASAP 2025 [CCF-C]*
