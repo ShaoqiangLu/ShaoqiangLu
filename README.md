@@ -20,7 +20,6 @@
 - **Shanghai Jiao Tong University** &nbsp;&nbsp;&nbsp;&nbsp; Shanghai, China  *2022.9 ~ 2026.6*  
   **Ph.D. degree in Integrated Circuits Engineering**, School of Electronic Information and Electrical Engineering  
   Graduate Thesis: Research on FPGA-based Overlay Processor Unit for Deep Learning Algorithms  
-  GPA: 3.01/4.0
   
 - **Xidian University** &nbsp;&nbsp;&nbsp;&nbsp; Xi’an, Shaanxi, China  *2019.9 ~ 2022.6*  
   **Master’s degree in Integrated Circuit Design**, National Demonstration School of Microelectronics  
