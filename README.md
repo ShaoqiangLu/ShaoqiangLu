@@ -33,7 +33,7 @@
   
 
 &nbsp;&nbsp;📚**Key Courses**: Digital IC Design (96), Verilog HDL (95.6), FPGA Applications (95), Semiconductor Physics (93),   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Computer Architecture  
 &nbsp;&nbsp;🌐**English Proficiency**: College English Test Band 4 (CET-4), Band 6 (CET-6)
 
