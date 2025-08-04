@@ -55,22 +55,26 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 4. **"ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity" [**cite**](https://dl.acm.org/doi/10.1145/3676536.3676761)**  
    Tiandong Zhao, <ins>Shaoqiang Lu</ins>, Chen Wu, Lei He.  *ICCAD 2024 [CCF-B]* 
 
-5. **"dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models" [**cite**]**  
-   Yangbo Wei, <ins>Shaoqiang Lu</ins>, Junhong Qian, Chen Wu, Xiao Shi, Lei He.  *ASP-DAC 2026 [CCF-C] (under review)*   
-
-6. **"METAL: A Memory-Efficient Transformer Architecture for Long-Context Inference on FPGA" [**cite**]**  
+5. **"METAL: A Memory-Efficient Transformer Architecture for Long-Context Inference on FPGA" [**cite**]**  
    Zicheng He, <ins>Shaoqiang Lu</ins>, Tiandong Zhao, Chen Wu, Lei He.  *ASAP 2025 [CCF-C]*
 
-7. **"Token Packing for Transformers with Variable-Length Inputs" [**cite**](https://ieeexplore.ieee.org/document/10296372)**  
+6. **"Token Packing for Transformers with Variable-Length Inputs" [**cite**](https://ieeexplore.ieee.org/document/10296372)**  
    Tiandong Zhao, Siyuan Miao, <ins>Shaoqiang Lu</ins>, Jialin Cao, Jun Qiu, Xiao Shi, Kun Wang, Lei He.  *FPL 2023 [CCF-C]* 
 
-8. **"C2OPU: Hybrid Compute-in-Memory and Coarse-Grained Reconfigurable Architecture for Overlay Processing of Transformers" [**cite**](https://ieeexplore.ieee.org/document/11008948)**  
+7. **"C2OPU: Hybrid Compute-in-Memory and Coarse-Grained Reconfigurable Architecture for Overlay Processing of Transformers" [**cite**](https://ieeexplore.ieee.org/document/11008948)**  
    Siyuan Miao, Lingkang Zhu, Chen Wu, <ins>Shaoqiang Lu</ins>, Jinming Lyu, Lei He.  *FCCM 2025 [CCF-C]*
+
+8. **"FPGA Overlay processor for AI computing" [**cite**](https://www.sciengine.com/SSI/doi/10.1360/SSI-2024-0351)**  
+   He Lei, Wang Kun, Wu Chen, Tao Zhuofu, Shi Xiao, Miao Siyuan, <ins>Shaoqiang Lu</ins>. *Science China: Information Sciences*
 
 ---
 
-9. **"FPGA Overlay processor for AI computing" [**cite**](https://www.sciengine.com/SSI/doi/10.1360/SSI-2024-0351)**  
-   He Lei, Wang Kun, Wu Chen, Tao Zhuofu, Shi Xiao, Miao Siyuan, <ins>Shaoqiang Lu</ins>. *Science China: Information Sciences*
+
+9. **"dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models" [**cite**]**  
+   Yangbo Wei, <ins>Shaoqiang Lu</ins>, Junhong Qian, Chen Wu, Xiao Shi, Lei He.  *ASP-DAC 2026 [CCF-C] (under review)*   
+
+10. **"Mixture-of-Trees: Learning to Select and Weigh Reasoning Paths for Efficient LLM Inference" [**cite**]**  
+   Yangbo_Wei, Zhen huang, <ins>Shaoqiang Lu</ins>, Junhong Qian, Dongge Qin, Ting Jung Lin, WEI W. XING, Chen Wu, Lei He .  *AAAI 2026 [CCF-A] (under review)*
 
 ---
 
