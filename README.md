@@ -69,7 +69,7 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 
 
-#### Under Review <sub>────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────</sub>
+#### Under Review <sub>──────────────────────────────────────────────────────────────────────────────────────────────────────────</sub>
 
 9. **"dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models" [**cite**]**  
    Yangbo Wei, <ins>Shaoqiang Lu</ins>, Junhong Qian, Chen Wu, Xiao Shi, Lei He.  *ASP-DAC 2026 [CCF-C]*   
