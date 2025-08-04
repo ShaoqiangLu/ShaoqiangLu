@@ -21,12 +21,12 @@
   **Ph.D. degree in Integrated Circuits Engineering**, School of Electronic Information and Electrical Engineering  
   Graduate Thesis: Research on FPGA-based Overlay Processor Unit for Deep Learning Algorithms  
   
-- **Xidian University** &nbsp;&nbsp;&nbsp;&nbsp; Xi’an, Shaanxi, China.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2019.9 ~ 2022.6*  
+- **Xidian University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Xi’an, Shaanxi, China.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2019.9 ~ 2022.6*  
   **Master’s degree in Integrated Circuit Design**, National Demonstration School of Microelectronics  
   Graduate Thesis: Research and Design of DDR4 PHY Interface Based on the DFI 4.0 Specification  
   Degree Course Ranking: 35/188 &nbsp;&nbsp;&nbsp;&nbsp; Total Evaluation Ranking : 2nd Year 8/188;&nbsp; 3rd Year 4/188  
 
-- **Xidian University** &nbsp;&nbsp;&nbsp;&nbsp; Xi’an, Shaanxi, China.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2015.9 ~ 2019.6*  
+- **Xidian University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Xi’an, Shaanxi, China.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2015.9 ~ 2019.6*  
   **Bachelor’s degree in Integrated Circuit Design and Integrated Systems**  
   Undergraduate Thesis: Design of a Terahertz Planar Antenna Based on Wide Bandgap Semiconductor GaN  
   
