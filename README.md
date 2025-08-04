@@ -66,7 +66,9 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 8. **"C2OPU: Hybrid Compute-in-Memory and Coarse-Grained Reconfigurable Architecture for Overlay Processing of Transformers" [**cite**](https://ieeexplore.ieee.org/document/11008948)**  
    Siyuan Miao, Lingkang Zhu, Chen Wu, <ins>Shaoqiang Lu</ins>, Jinming Lyu, Lei He.  *FCCM 2025 [CCF-C]*
-   
+
+---
+
 9. **"FPGA Overlay processor for AI computing" [**cite**](https://www.sciengine.com/SSI/doi/10.1360/SSI-2024-0351)**  
    He Lei, Wang Kun, Wu Chen, Tao Zhuofu, Shi Xiao, Miao Siyuan, <ins>Shaoqiang Lu</ins>. *Science China: Information Sciences*
 
