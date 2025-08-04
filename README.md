@@ -67,9 +67,9 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 8. **"FPGA Overlay processor for AI computing" [**cite**](https://www.sciengine.com/SSI/doi/10.1360/SSI-2024-0351)**  
    He Lei, Wang Kun, Wu Chen, Tao Zhuofu, Shi Xiao, Miao Siyuan, <ins>Shaoqiang Lu</ins>. *Science China: Information Sciences*
 
-<sub>──────────────────────────────────────────────────────────────────────────────────────────</sub>
 
-#### Under Review
+
+#### Under Review <sub>──────────────────────────────────────────────────────────────────────────────────────────</sub>
 
 9. **"dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models" [**cite**]**  
    Yangbo Wei, <ins>Shaoqiang Lu</ins>, Junhong Qian, Chen Wu, Xiao Shi, Lei He.  *ASP-DAC 2026 [CCF-C]*   
