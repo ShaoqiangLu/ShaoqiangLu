@@ -17,7 +17,7 @@
 
 ## 🎓 Education
 
-- **Shanghai Jiao Tong University** &nbsp;&nbsp;&nbsp;&nbsp; Shanghai, China.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2022.9 ~ 2026.6*  
+- **Shanghai Jiao Tong University** &nbsp;&nbsp;&nbsp;&nbsp; Shanghai, China.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2022.9 ~ 2026.6*  
   **Ph.D. degree in Integrated Circuits Engineering**, School of Electronic Information and Electrical Engineering  
   Graduate Thesis: Research on FPGA-based Overlay Processor Unit for Deep Learning Algorithms  
   
