@@ -104,7 +104,40 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 ---
 
-## ⚙️ Engineering Projects
+## ⚙️ Project 1: An FPGA-based Overlay Processor Unit for Accelerating AI Models  
+
+- RTL design of AI accelerators (Transformer, MoE, Mamba)
+- Compiler frontend/backend development and debugging
+- GPU-based AI model profiling and performance analysis
+
+![Architecture](fig/project1_arch.png)  
+![Layout](fig/project1_layout.png)  
+
+---
+
+## ⚙️ Project 2：Digital IC Frontend Design and Implementation of a PE Array  
+
+- RTL design of AI accelerators (Transformer, MoE, Mamba)
+- Compiler frontend/backend development and debugging
+- GPU-based AI model profiling and performance analysis
+
+![Architecture](fig/project1_arch.png)  
+![Layout](fig/project1_layout.png)  
+
+---
+
+## ⚙️ Project 3：Edge SoC with co-Accelerator in ARM Cortex-M3 for Face Detection  
+
+- RTL design of AI accelerators (Transformer, MoE, Mamba)
+- Compiler frontend/backend development and debugging
+- GPU-based AI model profiling and performance analysis
+
+![Architecture](fig/project1_arch.png)  
+![Layout](fig/project1_layout.png)  
+
+---
+
+## ⚙️ Project 4：Expert-Aware Quantization and Sparsity for MoE- based Models  
 
 - RTL design of AI accelerators (Transformer, MoE, Mamba)
 - Compiler frontend/backend development and debugging
