@@ -69,12 +69,15 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 
 #### Under Review <sub>─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─  </sub>
-
-9. **"dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models"**  
-   Yangbo Wei, <ins>Shaoqiang Lu</ins>, Junhong Qian, Chen Wu, Xiao Shi, Lei He.  *ASP-DAC 2026 [CCF-C]*   
+9. **"DFVG: A Heterogeneous Architecture for Speculative Decoding with Draft-on-FPGA and Verify-on-GPU"**  
+   <ins>Shaoqiang Lu</ins>,Yangbo Wei,Dongge Qin,Shiji Gao,Yizhi Ding,Qifan Wang,Chen Wu,Xiao Shi,Lei He .  *ASPLOS 2026 [CCF-A]*
 
 10. **"Mixture-of-Trees: Learning to Select and Weigh Reasoning Paths for Efficient LLM Inference"**  
    Yangbo Wei, Zhen huang, <ins>Shaoqiang Lu</ins>, Junhong Qian, Dongge Qin, Ting Jung Lin, WEI W. XING, Chen Wu, Lei He .  *AAAI 2026 [CCF-A]*
+
+11. **"dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models"**  
+   Yangbo Wei, <ins>Shaoqiang Lu</ins>, Junhong Qian, Chen Wu, Xiao Shi, Lei He.  *ASP-DAC 2026 [CCF-C]*   
+
 
 ---
 
