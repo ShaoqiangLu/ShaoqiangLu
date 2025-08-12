@@ -9,10 +9,10 @@
 ---
 
 ## 💡 Research Interests
-- AI Model Acceleration on FPGA Overlays
-- Hardware/Software Co-Design for Transformers, Mamba, MoE
-- AI Compiler Development (TVM, LLVM)
-- Sparse and Structured Acceleration Architectures
+- Digital IC Design for AI Chips — FPGA or ASIC design targeting AI acceleration
+- Hardware/Software Co-Design for Transformers, Mamba, and MoE-based large models
+- AI Compiler Development leveraging TVM and LLVM for efficient deployment
+- Algorithm-Level Optimization — quantization, sparsity, and fine-tuning for AI acceleration
 ---
 
 ## 🎓 Education
