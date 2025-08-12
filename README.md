@@ -93,7 +93,7 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 ## 🛠 Skills Summary
 **Languages**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CET-4 & CET-6 certified; proficient in technical reading/writing, basic verbal communication.  
-**Programming**:&nbsp; Verilog HDL (regular use), Python (AI models), C (ARM Cortex-M3), C++ (AI compiler & LLVM).  
+**Programming**: Verilog HDL (regular use), Python (AI models), C (ARM Cortex-M3), C++ (AI compiler & LLVM).  
 **AI Models**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BERT-base, ViT-base, GPT-2, LLaMA-7B, OPT-350M, Mamba 1/2, DeepSeek-V2-Lite, Qwen, dLLM.  
 **Frameworks**:&nbsp;&nbsp; PyTorch, Hugging Face Transformers, Quantization, Sparsity, vLLM, llama.cpp.  
 **Environment**:&nbsp; Xilinx FPGA U200/V80, Vivado/Vitis, ModelSim/VCS, NVIDIA RTX 4090/A100 (CUDA), PCIe, DDR4.
