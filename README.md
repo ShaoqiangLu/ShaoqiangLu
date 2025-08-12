@@ -110,8 +110,7 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 - Compiler frontend/backend development and debugging
 - GPU-based AI model profiling and performance analysis
 
-![Architecture](fig/project1_arch.png)  
-![Layout](fig/project1_layout.png)  
+![Architecture](fig/p1.png)   
 
 ---
 
