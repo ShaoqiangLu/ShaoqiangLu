@@ -109,3 +109,7 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 ---
 
 > 🚀 *I’m passionate about building high-performance AI systems from silicon architecture to compilers. Open to collaboration and research opportunities in intelligent computing systems.*
+
+![Architecture](https://raw.githubusercontent.com/<用户名>/<仓库名>/<分支名>/fig/project1_arch.png)
+![Layout](https://raw.githubusercontent.com/<用户名>/<仓库名>/<分支名>/fig/project1_layout.png)
+
