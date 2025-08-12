@@ -100,16 +100,18 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 ---
 
+> 🚀 *I’m passionate about building high-performance AI systems from silicon architecture to compilers. Open to collaboration and research opportunities in intelligent computing systems.*
+
+---
+
 ## ⚙️ Engineering Projects
 
 - RTL design of AI accelerators (Transformer, MoE, Mamba)
 - Compiler frontend/backend development and debugging
 - GPU-based AI model profiling and performance analysis
 
----
-
-> 🚀 *I’m passionate about building high-performance AI systems from silicon architecture to compilers. Open to collaboration and research opportunities in intelligent computing systems.*
-
 ![Architecture](fig/project1_arch.png)  
 ![Layout](fig/project1_layout.png)  
+
+---
 
