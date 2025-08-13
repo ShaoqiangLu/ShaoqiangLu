@@ -106,22 +106,23 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 ## ⚙️ Project 1: An FPGA-based Overlay Processor Unit for Accelerating AI Models  
 
-**Description:**  
-Designed and implemented an FPGA-based Overlay Processor Unit (OPU) to accelerate deep learning inference. Supports efficient execution of neural network operators and quick adaptation to various AI models.
+**Description**  
+Designed an FPGA-based Overlay Processor Unit (OPU) to accelerate inference of diverse AI deep learning models. Optimized data flow and operator execution through hardware–software co-design. Successfully deployed in real-time edge scenarios.
 
-**Responsibilities:**  
-- Designed OPU hardware architecture (data paths, instruction set, on-chip caches)  
-- Built a scalable execution engine for parallel acceleration of convolution and matrix multiplication  
-- Implemented high-speed PCIe host communication and optimized DMA transfers  
-- Developed a hardware-software co-design runtime from model compilation to FPGA execution  
-- Benchmarked with BERT and ResNet, achieving significant throughput and latency improvements over CPU  
+**Responsibilities**  
+- Designed the OPU including the instruction set, compiler, and hardware microarchitecture.  
+- Built a scalable computing engine for parallel execution of key operations (e.g., convolution, matrix multiplication).  
+- Developed specialized functional units for nonlinear operations.  
+- Implemented a real-time hardware–software runtime, covering CPU-side model compilation to FPGA inference.  
+- Enabled PCIe-based transfer of weights and control instructions.  
+- Designed for scalability across various sizes and types of neural networks.  
 
-**Evaluation:**  
-- Achieved **3–5× speedup** on typical AI inference tasks  
-- Highly scalable architecture adaptable to diverse neural networks  
+**Evaluation**  
+- Deployed on a Xilinx U200 FPGA at 300 MHz.  
+- Achieved **1.31× – 7.18×** throughput improvement on Transformer-based models, including BERT, GPT-2, and LLaMA.  
 
-**Tools:**  
-Xilinx Vivado · Verilog HDL · PCIe · DMA · C/C++ · Python · PyTorch · FPGA (Xilinx U200)  
+**Tools & Technologies**  
+Vivado · FPGA (U200) · Verilog · ModelSim · PCIe · DDR · XDMA · C++ · Python · PyTorch
 
 ![Architecture](fig/p1.png)   
 
@@ -129,20 +130,26 @@ Xilinx Vivado · Verilog HDL · PCIe · DMA · C/C++ · Python · PyTorch · FPG
 
 ## ⚙️ Project 2：Digital IC Frontend Design and Implementation of a PE Array  
 
-**Description:**  
-Designed and implemented a high-performance, low-power Processing Element (PE) array for AI workload acceleration.
+**Description**  
+Designed a Processing Element (PE) array to accelerate irregular sparse AI workloads. Implemented the digital IC frontend design flow and compared resource utilization between ASIC and FPGA implementations.
 
-**Responsibilities:**  
-- Designed RTL architecture (data path, control logic, memory interfaces)  
-- Performed RTL coding, functional verification, and timing constraint setup  
-- Integrated PE array into a larger SoC for AI acceleration tasks  
+**Responsibilities**  
+- Designed sparse computing architecture for the PE array, including triangular-fed data flow, PE unit logic, and weight bitmask decoding.  
+- Verified functionality via simulation before setting timing constraints.  
+- Completed both FPGA and ASIC flows, eliminating timing violations through iterative analysis.  
+- Integrated the PE array into a complete accelerator system.  
+- Analyzed synthesis and power reports to guide RTL refinement for improved performance.  
 
-**Evaluation:**  
-- Logic synthesis with Synopsys Design Compiler at **TSMC 28nm** node, optimized for performance, area, and power  
-- Power analysis with Synopsys PrimeTime to evaluate dynamic and leakage power  
+**Evaluation**  
+- Logic synthesis using Synopsys Design Compiler (DC) at TSMC 28nm process node.  
+- Power analysis via PrimeTime (PT), achieving:  
+  - **1 GHz** operating frequency  
+  - **1.06 mm²** core area  
+  - **1.32 W** power consumption  
+- Balanced performance, area, and power through RTL optimizations.  
 
-**Tools:**  
-Verilog HDL · Synopsys Design Compiler · Synopsys PrimeTime · ModelSim · TSMC 28nm  
+**Tools & Technologies**  
+Verilog · Synopsys Design Compiler (DC) · PrimeTime (PT) · VCS · TSMC 28nm · SDC · Shell · Tcl
 
 ![Layout](fig/p2.png)  
 
@@ -150,20 +157,23 @@ Verilog HDL · Synopsys Design Compiler · Synopsys PrimeTime · ModelSim · TSM
 
 ## ⚙️ Project 3：Edge SoC with co-Accelerator in ARM Cortex-M3 for Face Detection  
 
-**Description:**  
-Developed an Edge SoC integrating an ARM Cortex-M3 with a dedicated hardware co-accelerator to achieve real-time face detection.
+**Description**  
+Developed an Edge System-on-Chip (SoC) integrating an ARM Cortex-M3 processor with a dedicated hardware co-accelerator to enable real-time face detection.
 
-**Responsibilities:**  
-- Designed hardware co-accelerator for face detection (image preprocessing, feature extraction, detection pipeline)  
-- Integrated co-accelerator with ARM Cortex-M3 via AMBA (AHB/AXI) bus interface  
-- Implemented firmware for data transfer, task scheduling, and accelerator invocation  
+**Responsibilities**  
+- Built a complete image acquisition, storage, and display pipeline with Bus peripheral access in software Debug.  
+- Implemented the face detection algorithm on Cortex-M3 for standalone execution.  
+- Designed and integrated a dedicated hardware accelerator to boost detection performance.  
+- Deployed the system on an AX7103 FPGA with OV5640 stereo cameras for image capture, HDMI for real-time display, and UART for status communication.  
 
-**Evaluation:**  
-- Verified functionality via RTL simulation and firmware co-simulation  
-- Measured and analyzed processing latency and power consumption  
+**Evaluation**  
+- Ran on a 100 MHz AX7103 FPGA platform.  
+- Achieved **41 ms/face** processing time with hardware acceleration, compared to **2700 ms/face** on pure Cortex-M3.  
+- Delivered a **65.81×** performance speedup over the baseline software-only implementation.  
 
-**Tools:**  
-Verilog HDL · ARM Cortex-M3 · AHB/AXI Bus · Keil MDK · ModelSim · FPGA · C  
+**Tools & Technologies**  
+C (embedded Cortex-M3) · AHB/APB/AXI · Keil MDK · AX7103 · OV5640 · HDMI
+ 
 
 ![Layout](fig/p3.png)  
 
@@ -171,21 +181,22 @@ Verilog HDL · ARM Cortex-M3 · AHB/AXI Bus · Keil MDK · ModelSim · FPGA · C
 
 ## ⚙️ Project 4：Expert-Aware Quantization and Sparsity for MoE- based Models  
 
-**Description:**  
-Designed and implemented expert-aware quantization and sparsity optimization techniques to reduce memory footprint and accelerate inference for MoE models.
+**Description**  
+Designed and implemented expert-aware quantization and sparsity optimization techniques for Mixture-of-Experts (MoE) models to reduce memory footprint.
 
-**Responsibilities:**  
-- Developed an expert-aware quantization strategy applying different bit-widths to active/inactive experts based on runtime gating decisions  
-- Implemented structured and unstructured sparsity to prune redundant parameters in expert and shared layers  
-- Integrated quantization and sparsity pipelines into model training workflows  
+**Responsibilities**  
+- Introduced N:M sparsity patterns (1:4 / 2:4 / 4:8 / 6:8 / 8:8) in MLP layers.  
+- Applied mixed-precision quantization (BF16 / FP8 / INT4) guided by expert activation frequency, covering both expert and shared layers.  
+- Integrated sparsity and quantization pipelines into the training workflow of the DeepSeek-V2-Lite model on the GSM8K dataset.  
 
-**Evaluation:**  
-- Maintained model accuracy within **<1% drop** across various datasets  
-- Achieved **2–3× speedup** and **40–60% memory savings**  
+**Evaluation**  
+- Reduced parameter size by up to **2.76×** while maintaining accuracy.  
+- Only **1.53%** average accuracy drop after fine-tuning.  
+- Achieved **2–3×** speedup and **40–60%** memory savings.  
 
-**Tools:**  
-PyTorch · Hugging Face · CUDA · NVIDIA TensorRT · Python · NVIDIA A100 GPU  
- 
+**Tools & Technologies**  
+PyTorch · DeepSeek-V2-Lite · GSM8K dataset · CUDA · NVIDIA A100 · NVIDIA RTX 4090 · Python
+
 ![Layout](fig/p4.png)  
 
 ---
