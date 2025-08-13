@@ -106,9 +106,22 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 ## ⚙️ Project 1: An FPGA-based Overlay Processor Unit for Accelerating AI Models  
 
-- RTL design of AI accelerators (Transformer, MoE, Mamba)
-- Compiler frontend/backend development and debugging
-- GPU-based AI model profiling and performance analysis
+**Description:**  
+Designed and implemented an FPGA-based Overlay Processor Unit (OPU) to accelerate deep learning inference. Supports efficient execution of neural network operators and quick adaptation to various AI models.
+
+**Responsibilities:**  
+- Designed OPU hardware architecture (data paths, instruction set, on-chip caches)  
+- Built a scalable execution engine for parallel acceleration of convolution and matrix multiplication  
+- Implemented high-speed PCIe host communication and optimized DMA transfers  
+- Developed a hardware-software co-design runtime from model compilation to FPGA execution  
+- Benchmarked with BERT and ResNet, achieving significant throughput and latency improvements over CPU  
+
+**Evaluation:**  
+- Achieved **3–5× speedup** on typical AI inference tasks  
+- Highly scalable architecture adaptable to diverse neural networks  
+
+**Tools:**  
+Xilinx Vivado · Verilog HDL · PCIe · DMA · C/C++ · Python · PyTorch · FPGA (Xilinx U200)  
 
 ![Architecture](fig/p1.png)   
 
@@ -116,9 +129,20 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 ## ⚙️ Project 2：Digital IC Frontend Design and Implementation of a PE Array  
 
-- RTL design of AI accelerators (Transformer, MoE, Mamba)
-- Compiler frontend/backend development and debugging
-- GPU-based AI model profiling and performance analysis
+**Description:**  
+Designed and implemented a high-performance, low-power Processing Element (PE) array for AI workload acceleration.
+
+**Responsibilities:**  
+- Designed RTL architecture (data path, control logic, memory interfaces)  
+- Performed RTL coding, functional verification, and timing constraint setup  
+- Integrated PE array into a larger SoC for AI acceleration tasks  
+
+**Evaluation:**  
+- Logic synthesis with Synopsys Design Compiler at **TSMC 28nm** node, optimized for performance, area, and power  
+- Power analysis with Synopsys PrimeTime to evaluate dynamic and leakage power  
+
+**Tools:**  
+Verilog HDL · Synopsys Design Compiler · Synopsys PrimeTime · ModelSim · TSMC 28nm  
 
 ![Layout](fig/p2.png)  
 
@@ -126,9 +150,20 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 ## ⚙️ Project 3：Edge SoC with co-Accelerator in ARM Cortex-M3 for Face Detection  
 
-- RTL design of AI accelerators (Transformer, MoE, Mamba)
-- Compiler frontend/backend development and debugging
-- GPU-based AI model profiling and performance analysis
+**Description:**  
+Developed an Edge SoC integrating an ARM Cortex-M3 with a dedicated hardware co-accelerator to achieve real-time face detection.
+
+**Responsibilities:**  
+- Designed hardware co-accelerator for face detection (image preprocessing, feature extraction, detection pipeline)  
+- Integrated co-accelerator with ARM Cortex-M3 via AMBA (AHB/AXI) bus interface  
+- Implemented firmware for data transfer, task scheduling, and accelerator invocation  
+
+**Evaluation:**  
+- Verified functionality via RTL simulation and firmware co-simulation  
+- Measured and analyzed processing latency and power consumption  
+
+**Tools:**  
+Verilog HDL · ARM Cortex-M3 · AHB/AXI Bus · Keil MDK · ModelSim · FPGA · C  
 
 ![Layout](fig/p3.png)  
 
@@ -136,9 +171,20 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 ## ⚙️ Project 4：Expert-Aware Quantization and Sparsity for MoE- based Models  
 
-- RTL design of AI accelerators (Transformer, MoE, Mamba)
-- Compiler frontend/backend development and debugging
-- GPU-based AI model profiling and performance analysis
+**Description:**  
+Designed and implemented expert-aware quantization and sparsity optimization techniques to reduce memory footprint and accelerate inference for MoE models.
+
+**Responsibilities:**  
+- Developed an expert-aware quantization strategy applying different bit-widths to active/inactive experts based on runtime gating decisions  
+- Implemented structured and unstructured sparsity to prune redundant parameters in expert and shared layers  
+- Integrated quantization and sparsity pipelines into model training workflows  
+
+**Evaluation:**  
+- Maintained model accuracy within **<1% drop** across various datasets  
+- Achieved **2–3× speedup** and **40–60% memory savings**  
+
+**Tools:**  
+PyTorch · Hugging Face · CUDA · NVIDIA TensorRT · Python · NVIDIA A100 GPU  
  
 ![Layout](fig/p4.png)  
 
