@@ -139,7 +139,7 @@ Vivado · FPGA (U200) · Verilog · ModelSim · PCIe · DDR · XDMA · C++ · Py
 ## ⚙️ Project 2：Digital IC Frontend Design and Implementation of a PE Array  
 
 **Description**  
-Designed a Processing Element (PE) array to accelerate irregular sparse AI workloads. Implemented the digital IC frontend design flow and compared resource utilization between ASIC and FPGA implementations.
+- Designed a Processing Element (PE) array to accelerate irregular sparse AI workloads. Implemented the digital IC frontend design flow and compared resource utilization between ASIC and FPGA implementations.
 
 **Responsibilities**  
 - Designed sparse computing architecture for the PE array, including triangular-fed data flow, PE unit logic, and weight bitmask decoding.  
@@ -157,7 +157,7 @@ Designed a Processing Element (PE) array to accelerate irregular sparse AI workl
 - Balanced performance, area, and power through RTL optimizations.  
 
 **Tools & Technologies**  
-Verilog · Synopsys Design Compiler (DC) · PrimeTime (PT) · VCS · TSMC 28nm · SDC · Shell · Tcl
+- Verilog · Synopsys Design Compiler (DC) · PrimeTime (PT) · VCS · TSMC 28nm · SDC · Shell · Tcl
 
 ![Layout](fig/p2.png)  
 
@@ -166,7 +166,7 @@ Verilog · Synopsys Design Compiler (DC) · PrimeTime (PT) · VCS · TSMC 28nm �
 ## ⚙️ Project 3：Edge SoC with co-Accelerator in ARM Cortex-M3 for Face Detection  
 
 **Description**  
-Developed an Edge System-on-Chip (SoC) integrating an ARM Cortex-M3 processor with a dedicated hardware co-accelerator to enable real-time face detection.
+- Developed an Edge System-on-Chip (SoC) integrating an ARM Cortex-M3 processor with a dedicated hardware co-accelerator to enable real-time face detection.
 
 **Responsibilities**  
 - Built a complete image acquisition, storage, and display pipeline with Bus peripheral access in software Debug.  
@@ -180,7 +180,7 @@ Developed an Edge System-on-Chip (SoC) integrating an ARM Cortex-M3 processor wi
 - Delivered a **65.81×** performance speedup over the baseline software-only implementation.  
 
 **Tools & Technologies**  
-C (embedded Cortex-M3) · AHB/APB/AXI · Keil MDK · AX7103 · OV5640 · HDMI
+- C (embedded Cortex-M3) · AHB/APB/AXI · Keil MDK · AX7103 · OV5640 · HDMI
  
 
 ![Layout](fig/p3.png)  
@@ -190,7 +190,7 @@ C (embedded Cortex-M3) · AHB/APB/AXI · Keil MDK · AX7103 · OV5640 · HDMI
 ## ⚙️ Project 4：Expert-Aware Quantization and Sparsity for MoE- based Models  
 
 **Description**  
-Designed and implemented expert-aware quantization and sparsity optimization techniques for Mixture-of-Experts (MoE) models to reduce memory footprint.
+- Designed and implemented expert-aware quantization and sparsity optimization techniques for Mixture-of-Experts (MoE) models to reduce memory footprint.
 
 **Responsibilities**  
 - Introduced N:M sparsity patterns (1:4 / 2:4 / 4:8 / 6:8 / 8:8) in MLP layers.  
@@ -203,7 +203,7 @@ Designed and implemented expert-aware quantization and sparsity optimization tec
 - Achieved **2–3×** speedup and **40–60%** memory savings.  
 
 **Tools & Technologies**  
-PyTorch · DeepSeek-V2-Lite · GSM8K dataset · CUDA · NVIDIA A100 · NVIDIA RTX 4090 · Python
+- PyTorch · DeepSeek-V2-Lite · GSM8K dataset · CUDA · NVIDIA A100 · NVIDIA RTX 4090 · Python
 
 ![Layout](fig/p4.png)  
 
