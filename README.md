@@ -112,7 +112,7 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 ---
 
-## ⚙️ Project 1: An FPGA-based Overlay Processor Unit for Accelerating AI Models  
+## 🧬 Project 1: An FPGA-based Overlay Processor Unit for Accelerating AI Models  
 
 **Description**  
 - Designed an FPGA-based Overlay Processor Unit (OPU) to accelerate inference of diverse AI deep learning models. Optimized data flow and operator execution through hardware–software co-design. Successfully deployed in real-time edge scenarios.
