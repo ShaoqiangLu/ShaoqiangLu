@@ -82,10 +82,10 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 ## 🛡️ Patents
 
-- **FPGA Overlay Processor System and Method Based on State-Space Duality** — Granted on Aug 1, 2025  
-- **High-Throughput Low-Latency PHY Interface Circuit Device for DDR5 SDRAM** — Granted on Jun 9, 2023  
-- **Weld Defect Detection Method, System, Storage Medium, Computer Device, and Terminal** — Granted on Feb 20, 2024  
-- **Accelerator for Speeding Up Inference of Unstructured Sparse Large Models** — Filed on Feb 14, 2025
+- **FPGA Overlay Processor System and Method Based on State-Space Duality** ![Granted](https://img.shields.io/badge/Granted-2025.08.01-blue)  
+- **High-Throughput Low-Latency PHY Interface Circuit Device for DDR5 SDRAM** ![Granted](https://img.shields.io/badge/Granted-2023.06.09-blue)  
+- **Weld Defect Detection Method, System, Storage Medium, Computer Device, and Terminal** ![Granted](https://img.shields.io/badge/Granted-2024.02.20-blue)  
+- **Accelerator for Speeding Up Inference of Unstructured Sparse Large Models** ![Filed](https://img.shields.io/badge/Filed-2025.02.14-orange)
 
 ---
 
