@@ -115,7 +115,7 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 ## ⚙️ Project 1: An FPGA-based Overlay Processor Unit for Accelerating AI Models  
 
 **Description**  
-Designed an FPGA-based Overlay Processor Unit (OPU) to accelerate inference of diverse AI deep learning models. Optimized data flow and operator execution through hardware–software co-design. Successfully deployed in real-time edge scenarios.
+- Designed an FPGA-based Overlay Processor Unit (OPU) to accelerate inference of diverse AI deep learning models. Optimized data flow and operator execution through hardware–software co-design. Successfully deployed in real-time edge scenarios.
 
 **Responsibilities**  
 - Designed the OPU including the instruction set, compiler, and hardware microarchitecture.  
@@ -130,7 +130,7 @@ Designed an FPGA-based Overlay Processor Unit (OPU) to accelerate inference of d
 - Achieved **1.31× – 7.18×** throughput improvement on Transformer-based models, including BERT, GPT-2, and LLaMA.  
 
 **Tools & Technologies**  
-Vivado · FPGA (U200) · Verilog · ModelSim · PCIe · DDR · XDMA · C++ · Python · PyTorch
+- Vivado · FPGA (U200) · Verilog · ModelSim · PCIe · DDR · XDMA · C++ · Python · PyTorch
 
 ![Architecture](fig/p1.png)   
 
