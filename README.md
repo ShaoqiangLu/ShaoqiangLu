@@ -78,6 +78,14 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 11. **"dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models"**  
    Yangbo Wei, <ins>Shaoqiang Lu</ins>, Junhong Qian, Chen Wu, Xiao Shi, Lei He.  *ASP-DAC 2026 [CCF-C]*   
 
+---
+
+## 🛡️ Patents
+
+- **FPGA Overlay Processor System and Method Based on State-Space Duality** — Granted on Aug 1, 2025  
+- **High-Throughput Low-Latency PHY Interface Circuit Device for DDR5 SDRAM** — Granted on Jun 9, 2023  
+- **Weld Defect Detection Method, System, Storage Medium, Computer Device, and Terminal** — Granted on Feb 20, 2024  
+- **Accelerator for Speeding Up Inference of Unstructured Sparse Large Models** — Filed on Feb 14, 2025
 
 ---
 
