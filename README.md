@@ -42,10 +42,10 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 > *👨‍🏫 Prof. [Lei He](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=en) – Principal Investigator (PI), Chair Professor at Eastern Institute of Technology, Tenured Professor at UCLA, IEEE Fellow*    
 
-1. [CCF-A,#1 author,DAC 2025]**"MambaOPU: An FPGA Overlay Processor for State-space-duality-based Mamba Models"**  
+1. **<h1 style="color:red;">[CCF-A,#1 author,DAC 2025]</h1>"MambaOPU: An FPGA Overlay Processor for State-space-duality-based Mamba Models"**  
    <ins>Shaoqiang Lu</ins>, Xuliang Yu, Tiandong Zhao, Siyuan Miao, Xinsong Sheng, Chen Wu, et al.   
 
-2. [CCF-B,#1 author,ICCAD 2025]**"MoE-OPU: An FPGA Overlay Processor Leveraging Expert Parallelism for MoE-based Large Language Models"**  
+2. **[CCF-B,#1 author,ICCAD 2025]"MoE-OPU: An FPGA Overlay Processor Leveraging Expert Parallelism for MoE-based Large Language Models"**  
    <ins>Shaoqiang Lu</ins>, Yangbo Wei, Junhong Qian, Chen Wu, Xiao Shi, Lei He.   
 
 3. [CCF-B,#1 author,TRETS Journal]**"MCoreOPU: An FPGA-based Multi-Core Overlay Processor for Transformer-based Models" [**pdf**](https://dl.acm.org/doi/10.1145/3742437)**  
