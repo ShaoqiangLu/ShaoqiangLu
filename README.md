@@ -48,7 +48,7 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 2. **[CCF-B,#1 author,ICCAD 2025]"MoE-OPU: An FPGA Overlay Processor Leveraging Expert Parallelism for MoE-based Large Language Models"**  
    <ins>Shaoqiang Lu</ins>, Yangbo Wei, Junhong Qian, Chen Wu, Xiao Shi, Lei He.   
 
-3. [CCF-B,#1 author,TRETS Journal]**"MCoreOPU: An FPGA-based Multi-Core Overlay Processor for Transformer-based Models" [**pdf**](https://dl.acm.org/doi/10.1145/3742437)**  
+3. **[CCF-B,#1 author,TRETS Journal]"MCoreOPU: An FPGA-based Multi-Core Overlay Processor for Transformer-based Models" [**pdf**](https://dl.acm.org/doi/10.1145/3742437)**  
    <ins>Shaoqiang Lu</ins>, Tiandong Zhao, Ting-Jung Lin, Rumin Zhang, Chen Wu, Lei He.  *ISEDA 2024*, * [CCF-B]* 
 
 4. **[CCF-B,#2 author,ICCAD 2024]"ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity" [**pdf**](https://dl.acm.org/doi/10.1145/3676536.3676761)**  
