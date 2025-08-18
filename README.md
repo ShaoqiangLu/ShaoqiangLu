@@ -108,10 +108,6 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 ---
 
-> 🚀 *I’m passionate about building high-performance AI systems from silicon architecture to compilers. Open to collaboration and research opportunities in intelligent computing systems.*
-
----
-
 ## ⚙️ Project 1: An FPGA-based Overlay Processor Unit for Accelerating AI Models  
 
 **Description**  
