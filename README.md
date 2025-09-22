@@ -130,7 +130,7 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 ![Architecture](fig/p1.png)   
 
-![RunTime](fig/ChatOPU_mp4_x6.mp4)  
+![RunTime](fig/ChatOPU_gif.gif)  
 
 ---
 
