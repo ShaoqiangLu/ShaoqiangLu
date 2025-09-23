@@ -124,8 +124,27 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 - Enabled PCIe-based transfer of weights and control instructions.  
 - Designed for scalability across various sizes and types of neural networks.  
 
+## Experimental Setup
+
+- **Board:** Xilinx Alveo **U200**
+- **Top-level clock:** **300 MHz**
+- **PE clock (boosted):** **600 MHz**
+- **Numbers:** Post-implementation utilization from the deployed bitstream
+
+### On-chip Resource Utilization
+
+| Resource | Used      | Utilization |
+|:-------:|----------:|------------:|
+| **LUT** | 947,684   | 80.16%      |
+| **FF**  | 1,806,396 | 76.39%      |
+| **BRAM (36Kb)** | 1,004.5 | 46.50% |
+| **DSP** | 4,364     | 63.80%      |
+
+> Deployed on a Xilinx U200 at 300 MHz; PEs run in a separate high-speed domain at 600 MHz.
+
+
 **Evaluation**  
-- Deployed on a Xilinx U200 FPGA at 300 MHz.  
+- Deployed on a Xilinx U200 FPGA at @300MHz. PE boost 600Mhz with 80.41%LUT 76.39%FF BRAM 46.5 4364DSP
 - Achieved **1.31× – 7.18×** throughput improvement on Transformer-based models, including BERT, GPT-2, and LLaMA.  
 
 **Tools & Technologies**  
