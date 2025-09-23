@@ -153,7 +153,7 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 ## ⚙️ Project 2：Edge SoC with co-Accelerator in ARM Cortex-M3 for Face Detection  
 
 **Description**  
-- Developed an Edge System-on-Chip (SoC) integrating an ARM Cortex-M3 processor with a dedicated hardware co-accelerator to enable real-time face detection.
+- Developed an Edge System-on-Chip (SoC) integrating an ARM Cortex-M3 processor with a dedicated hardware co-accelerator to enable real-time face detection. Deploy a decision-tree–based PICO (Pixel-Intensity Comparison-based Object Detection) model. 
 
 **Responsibilities**  
 - Built a complete image acquisition, storage, and display pipeline with Bus peripheral access in software.  
