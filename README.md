@@ -159,7 +159,7 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 - Built a complete image acquisition, storage, and display pipeline with Bus peripheral access in software.  
 - Implemented the face detection algorithm on Cortex-M3 for standalone execution.  
 - Designed and integrated a dedicated hardware accelerator to boost detection performance.  
-- Ran on a 100 MHz AX7103 FPGA with OV5640(3-million-pixel) for image capture.
+- Ran on a 100 MHz AX7103 FPGA with OV5640 (3-million-pixel) for image capture.
 - Data is stored in DDR3, HDMI for real-time display, and UART for status communication.  
 
 **Evaluation**  
