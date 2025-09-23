@@ -127,28 +127,20 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 ## Experimental Setup
 
-- **Board:** Xilinx Alveo **U200**
-- **Top-level clock:** **300 MHz**
-- **PE clock (boosted):** **600 MHz**
-- **Numbers:** Post-implementation utilization from the deployed bitstream
+- Xilinx Alveo U200 @ 300 MHz (PE 600 MHz)  
+- host 4-Core OPU + 64 GB DDR4
+- models run INT8 bitsandbytes.
 
-### Resources (left) vs. Model Results (right)
-
+**Evaluation**
+  
+- Resources (left) vs. Model Results (right) 
 | Resource| **LUT** | **FF** | **BRAM** | **DSP** |   | Model | **BERT** | **ViT** | **GPT2** | **LLaMA7B** |
 |---|---:|---:|---:|---:|:--:|:--|---:|---:|---:|---:|
 | **Used** | 947684 | 1806396 | 1004 | 4364 |  | **Latency\***(ms) | 3.41 | 6.96 | 59.49 | 149.57 |
 | **Util(%)** | 80.1% | 76.3% | 46.5% | 63.8% |  | **Throughput**(TOP/s) | 6.08 | 4.66 | 7.42 | 7.99 |
-
 <sub>\* We report the first token latency.</sub>
 
-
-
-
-**Evaluation**  
-- Deployed on a Xilinx U200 FPGA at @300MHz. PE boost 600Mhz with 80.41%LUT 76.39%FF BRAM 46.5 4364DSP
-- Achieved **1.31× – 7.18×** throughput improvement on Transformer-based models, including BERT, GPT-2, and LLaMA.  
-
-**Tools & Technologies**  
+**Tools**  
 - Vivado · FPGA (U200) · Verilog · ModelSim · PCIe · DDR · XDMA · C++ · Python · PyTorch
 
 ![Architecture](fig/p1.png)   
