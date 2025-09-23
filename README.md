@@ -79,7 +79,7 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
    Yangbo Wei, Zhen huang, <ins>Shaoqiang Lu</ins>, Junhong Qian, Dongge Qin, Ting Jung Lin, WEI W. XING, Chen Wu, Lei He .  
 
 12. **[CCF-B, #3 author, AAAI 2026](#)"Reuse, Reduce, Compute: A Similarity-Aware Accelerator for Diffusion Model Inference"**  
-   Yangbo Wei, Yangbo Wei, <ins>Shaoqiang Lu</ins>, Junhong Qian, Dongge Qin, Shiji Gao, Yizhi Ding, Qifan Wang, Chen Wu, Xiao Shi, Lei He .  
+   Junhong Qian, Yangbo Wei, <ins>Shaoqiang Lu</ins>, Dongge Qin, Shiji Gao, Yizhi Ding, Qifan Wang, Chen Wu, Xiao Shi, Lei He .  
 
 ---
 
