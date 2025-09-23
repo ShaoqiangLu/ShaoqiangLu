@@ -133,7 +133,7 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 **Evaluation**
 
-- Resources (left) vs. Model Results (right) <sub>\* We report the first token latency.</sub>
+- Resources Usage (left)   vs.   Model Results (right) <sub>\* We report the first token latency.</sub>
 
 | Resource | **LUT** | **FF** | **BRAM** | **DSP** |   | Model | **BERT** | **ViT** | **GPT2** | **LLaMA7B** |
 |---|---:|---:|---:|---:|:--:|:--|---:|---:|---:|---:|
