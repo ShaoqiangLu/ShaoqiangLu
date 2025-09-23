@@ -131,14 +131,13 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 - **PE clock (boosted):** **600 MHz**
 - **Numbers:** Post-implementation utilization from the deployed bitstream
 
-### On-chip Resource Utilization
+### On-chip Resource Utilization (Horizontal)
 
-| Resource | Used      | Utilization |
-|:-------:|----------:|------------:|
-| **LUT** | 947,684   | 80.16%      |
-| **FF**  | 1,806,396 | 76.39%      |
-| **BRAM (36Kb)** | 1,004.5 | 46.50% |
-| **DSP** | 4,364     | 63.80%      |
+| Metric \ Resource | **LUT** | **FF** | **BRAM (36Kb)** | **DSP** |
+|---|---:|---:|---:|---:|
+| **Used** | 947,684 | 1,806,396 | 1,004.5 | 4,364 |
+| **Utilization** | 80.16% | 76.39% | 46.50% | 63.80% |
+
 
 > Deployed on a Xilinx U200 at 300 MHz; PEs run in a separate high-speed domain at 600 MHz.
 
