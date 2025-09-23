@@ -156,7 +156,7 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 - Developed an Edge System-on-Chip (SoC) integrating an ARM Cortex-M3 processor with a dedicated hardware co-accelerator to enable real-time face detection.
 
 **Responsibilities**  
-- Built a complete image acquisition, storage, and display pipeline with Bus peripheral access in software Debug.  
+- Built a complete image acquisition, storage, and display pipeline with Bus peripheral access in software.  
 - Implemented the face detection algorithm on Cortex-M3 for standalone execution.  
 - Designed and integrated a dedicated hardware accelerator to boost detection performance.  
 - Ran on a 100 MHz AX7103 FPGA with OV5640(3-million-pixel) for image capture.
