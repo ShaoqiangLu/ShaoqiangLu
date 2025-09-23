@@ -185,8 +185,7 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 ![Layout](fig/p3.png)  
 
 ## Demo
-https://github.com/user-attachments/assets/9ee363e8-fca3-4665-9d88-5c6c5fb944c2
-
+https://github.com/user-attachments/assets/6bb78c01-e04a-4578-8d5d-629dccaaa5b7
 ---
 
 ## ⚙️ Project 4：Expert-Aware Quantization and Sparsity for MoE- based Models  
