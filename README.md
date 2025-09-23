@@ -163,7 +163,6 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 - Data is stored in DDR3, HDMI for real-time display, and UART for status communication.  
 
 
-
 **Experimental Setup & Results**
 
 - Camera: OV5640, RGB565, 5 MP  
@@ -193,7 +192,6 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 | CPU | OpenCV | 33 ms |
 | FPGA | RTL | 42 ms |
 | Cortex-M3 | C | 2,700 ms |
-
 
 
 **Evaluation**  
