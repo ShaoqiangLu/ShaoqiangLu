@@ -128,16 +128,18 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 ## Experimental Setup
 
 - Xilinx Alveo U200 @ 300 MHz (PE 600 MHz)  
-- host 4-Core OPU + 64 GB DDR4
-- models run INT8 bitsandbytes.
+- Implementation 4-Core OPU + 64 GB DDR4
+- Quantization Models run INT8 bitsandbytes.
 
 **Evaluation**
-  
-- Resources (left) vs. Model Results (right) 
-| Resource| **LUT** | **FF** | **BRAM** | **DSP** |   | Model | **BERT** | **ViT** | **GPT2** | **LLaMA7B** |
+
+- Resources (left) vs. Model Results (right)
+
+| Resource | **LUT** | **FF** | **BRAM** | **DSP** |   | Model | **BERT** | **ViT** | **GPT2** | **LLaMA7B** |
 |---|---:|---:|---:|---:|:--:|:--|---:|---:|---:|---:|
-| **Used** | 947684 | 1806396 | 1004 | 4364 |  | **Latency\***(ms) | 3.41 | 6.96 | 59.49 | 149.57 |
-| **Util(%)** | 80.1% | 76.3% | 46.5% | 63.8% |  | **Throughput**(TOP/s) | 6.08 | 4.66 | 7.42 | 7.99 |
+| **Used** | 947684 | 1806396 | 1004 | 4364 |  | **Latency\*** (ms) | 3.41 | 6.96 | 59.49 | 149.57 |
+| **Util(%)** | 80.1% | 76.3% | 46.5% | 63.8% |  | **Throughput** (TOP/s) | 6.08 | 4.66 | 7.42 | 7.99 |
+
 <sub>\* We report the first token latency.</sub>
 
 **Tools**  
