@@ -170,6 +170,7 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 - Memory: DDR3 ×2 (8 Gb each)
 
 - FPGA Resource Utilization
+  
 | Resource | Used  | Utilization |
 |---|---:|---:|
 | LUT | 36,583 | 57.70% |
@@ -177,7 +178,8 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 | BRAM | 101 | 75.00% |
 | DSP | 27 | 11.00% |
 
-- ASIC (SMIC 55 nm HD RVT) Synthesis
+- ASIC (SMIC 55 nm HD RVT) DC Synthesis
+  
 | Metric | Value |
 |---|---:|
 | Area | 61,801 μm² |
@@ -187,6 +189,7 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 | MOS count (est.) | ≈ 220k (≈ 55,180 × 4) |
 
 - Performance (per-frame latency)
+  
 | Platform | Implementation | Time |
 |---|---|---:|
 | CPU | OpenCV | 33 ms |
