@@ -1,7 +1,3 @@
-## Demo
-https://github.com/user-attachments/assets/208bbdd5-37be-42ab-9205-f57918ffdcd3
-
-
 # 😄 Hi, I'm Shaoqiang Lu
 
 💼 **Job Objective**: Digital Chip Design, AI Model Deployment  
@@ -134,7 +130,8 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 ![Architecture](fig/p1.png)   
 
-![RunTime](fig/ChatOPU_gif.gif)  
+## Demo
+https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 
 ---
 
