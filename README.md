@@ -48,22 +48,22 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 2. **[CCF-B, #1 author, ICCAD 2025](#)"MoE-OPU: An FPGA Overlay Processor Leveraging Expert Parallelism for MoE-based Large Language Models"**  
    <ins>Shaoqiang Lu</ins>, Yangbo Wei, Junhong Qian, Chen Wu, Xiao Shi, Lei He.   
 
-3. **[CCF-B, #1 author, TRETS Journal, ISEDA 2024](#)"MCoreOPU: An FPGA-based Multi-Core Overlay Processor for Transformer-based Models" [**pdf**](https://dl.acm.org/doi/10.1145/3742437)**  
+3. **[CCF-B, #1 author, TRETS Journal, ISEDA 2024](#)"MCoreOPU: An FPGA-based Multi-Core Overlay Processor for Transformer-based Models" [**PDF**](https://dl.acm.org/doi/10.1145/3742437)**  
    <ins>Shaoqiang Lu</ins>, Tiandong Zhao, Ting-Jung Lin, Rumin Zhang, Chen Wu, Lei He.   
 
-4. **[CCF-B, #2 author, ICCAD 2024](#)"ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity" [**pdf**](https://dl.acm.org/doi/10.1145/3676536.3676761)**  
+4. **[CCF-B, #2 author, ICCAD 2024](#)"ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity" [**PDF**](https://dl.acm.org/doi/10.1145/3676536.3676761)**  
    Tiandong Zhao, <ins>Shaoqiang Lu</ins>, Chen Wu, Lei He.   
 
 5. **[CCF-C, #2 author, ASAP 2025, BestPaper Nomination](#)"METAL: A Memory-Efficient Transformer Architecture for Long-Context Inference on FPGA"**  
    Zicheng He, <ins>Shaoqiang Lu</ins>, Tiandong Zhao, Chen Wu, Lei He.  
 
-6. **[CCF-C, #3 author, FPL 2023](#)"Token Packing for Transformers with Variable-Length Inputs" [**pdf**](https://ieeexplore.ieee.org/document/10296372)**  
+6. **[CCF-C, #3 author, FPL 2023](#)"Token Packing for Transformers with Variable-Length Inputs" [**PDF**](https://ieeexplore.ieee.org/document/10296372)**  
    Tiandong Zhao, Siyuan Miao, <ins>Shaoqiang Lu</ins>, Jialin Cao, Jun Qiu, Xiao Shi, Kun Wang, Lei He.   
 
-7. **[CCF-C, #4 author, FCCM 2025](#)"C2OPU: Hybrid Compute-in-Memory and Coarse-Grained Reconfigurable Architecture for Overlay Processing of Transformers" [**pdf**](https://ieeexplore.ieee.org/document/11008948)**  
+7. **[CCF-C, #4 author, FCCM 2025](#)"C2OPU: Hybrid Compute-in-Memory and Coarse-Grained Reconfigurable Architecture for Overlay Processing of Transformers" [**PDF**](https://ieeexplore.ieee.org/document/11008948)**  
    Siyuan Miao, Lingkang Zhu, Chen Wu, <ins>Shaoqiang Lu</ins>, Jinming Lyu, Lei He.  
 
-8. **[CCF-A, #7 author, Science China: Information Sciences](#)"FPGA Overlay processor for AI computing" [**pdf**](https://www.sciengine.com/SSI/doi/10.1360/SSI-2024-0351)**  
+8. **[CCF-A, #7 author, Science China: Information Sciences](#)"FPGA Overlay processor for AI computing" [**PDF**](https://www.sciengine.com/SSI/doi/10.1360/SSI-2024-0351)**  
    He Lei, Wang Kun, Wu Chen, Tao Zhuofu, Shi Xiao, Miao Siyuan, <ins>Shaoqiang Lu</ins>. 
 
 
