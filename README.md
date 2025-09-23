@@ -1,3 +1,14 @@
+## Project Demo（2:10）
+
+# 直接把你的 MP4 链接单独放一行（会自动出现播放器）👇
+https://user-images.githubusercontent.com/xxxxxxxx/your_demo.mp4
+
+
+
+
+
+
+
 # 😄 Hi, I'm Shaoqiang Lu
 
 💼 **Job Objective**: Digital Chip Design, AI Model Deployment  
