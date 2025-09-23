@@ -138,34 +138,7 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 
 ---
 
-## ⚙️ Project 2：Digital IC Frontend Design and Implementation of a PE Array  
-
-**Description**  
-- Designed a Processing Element (PE) array to accelerate irregular sparse AI workloads. Implemented the digital IC frontend design flow and compared resource utilization between ASIC and FPGA implementations.
-
-**Responsibilities**  
-- Designed sparse computing architecture for the PE array, including triangular-fed data flow, PE unit logic, and weight bitmask decoding.  
-- Verified functionality via simulation before setting timing constraints.  
-- Completed both FPGA and ASIC flows, eliminating timing violations through iterative analysis.  
-- Integrated the PE array into a complete accelerator system.  
-- Analyzed synthesis and power reports to guide RTL refinement for improved performance.  
-
-**Evaluation**  
-- Logic synthesis using Synopsys Design Compiler (DC) at TSMC 28nm process node.  
-- Power analysis via PrimeTime (PT), achieving:  
-  - **1 GHz** operating frequency  
-  - **1.06 mm²** core area  
-  - **1.32 W** power consumption  
-- Balanced performance, area, and power through RTL optimizations.  
-
-**Tools & Technologies**  
-- Verilog · Synopsys Design Compiler (DC) · PrimeTime (PT) · VCS · TSMC 28nm · SDC · Shell · Tcl
-
-![Layout](fig/p2.png)  
-
----
-
-## ⚙️ Project 3：Edge SoC with co-Accelerator in ARM Cortex-M3 for Face Detection  
+## ⚙️ Project 2：Edge SoC with co-Accelerator in ARM Cortex-M3 for Face Detection  
 
 **Description**  
 - Developed an Edge System-on-Chip (SoC) integrating an ARM Cortex-M3 processor with a dedicated hardware co-accelerator to enable real-time face detection.
@@ -189,6 +162,33 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 
 ## Demo
 https://github.com/user-attachments/assets/6bb78c01-e04a-4578-8d5d-629dccaaa5b7
+
+---
+
+## ⚙️ Project 3：Digital IC Frontend Design and Implementation of a PE Array  
+
+**Description**  
+- Designed a Processing Element (PE) array to accelerate irregular sparse AI workloads. Implemented the digital IC frontend design flow and compared resource utilization between ASIC and FPGA implementations.
+
+**Responsibilities**  
+- Designed sparse computing architecture for the PE array, including triangular-fed data flow, PE unit logic, and weight bitmask decoding.  
+- Verified functionality via simulation before setting timing constraints.  
+- Completed both FPGA and ASIC flows, eliminating timing violations through iterative analysis.  
+- Integrated the PE array into a complete accelerator system.  
+- Analyzed synthesis and power reports to guide RTL refinement for improved performance.  
+
+**Evaluation**  
+- Logic synthesis using Synopsys Design Compiler (DC) at TSMC 28nm process node.  
+- Power analysis via PrimeTime (PT), achieving:  
+  - **1 GHz** operating frequency  
+  - **1.06 mm²** core area  
+  - **1.32 W** power consumption  
+- Balanced performance, area, and power through RTL optimizations.  
+
+**Tools & Technologies**  
+- Verilog · Synopsys Design Compiler (DC) · PrimeTime (PT) · VCS · TSMC 28nm · SDC · Shell · Tcl
+
+![Layout](fig/p2.png)  
 
 ---
 
