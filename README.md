@@ -162,6 +162,15 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 - Ran on a 100 MHz AX7103 FPGA with OV5640 (3-million-pixel) for image capture.
 - Data is stored in DDR3, HDMI for real-time display, and UART for status communication.  
 
+
+| Category | LUT | LUT Util | FF | FF Util | BRAM | BRAM Util | DSP | DSP Util | Memory | Camera | Display | Notes |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---|---|---|---|
+| **FPGA** | 36,583 | 57.70% | 36,130 | 28.50% | 101 | 75% | 27 | 11% | DDR3 ×2 (8 Gb each) | OV5640, RGB565, 5 MP | HBMI, RGB888, 640×480@60 Hz | — |
+| **ASIC (SMIC55 HD RVT)** | — | — | — | — | — | — | — | — | — | — | — | Area 61,801 μm²; Power 361.5 μW; NAND2=1.12 μm²; ~55,180 gates; ~220k MOS (≈×4) |
+| **Result (Latency)** | — | — | — | — | — | — | — | — | — | — | — | CPU/OpenCV: **33 ms** · FPGA/RTL: **42 ms** · Cortex-M3/C: **2700 ms** |
+
+
+
 ## Experimental Setup & Results
 
 ### Hardware / I/O
