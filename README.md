@@ -125,7 +125,7 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 - Designed for scalability across various sizes and types of neural networks.  
 
 
-## Experimental Setup
+**Experimental Setup**
 
 - Xilinx Alveo U200 @ 300 MHz (PE 600 MHz)  
 - Implementation 4-Core OPU + 64 GB DDR4
