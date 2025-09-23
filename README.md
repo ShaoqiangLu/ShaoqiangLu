@@ -85,10 +85,10 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 ## 🛡️ Patents
 
-- **FPGA Overlay Processor System and Method Based on State-Space Duality[pdf](https://www.patentstar.com.cn/Search/ResultList?CurrentQuery=6ZmG5bCR5by6L0lO&type=cn)** — Granted on 2025.08.01
-- **Accelerator for Speeding Up Inference of Unstructured Sparse Large Models[pdf](https://www.patentstar.com.cn/Search/ResultList?CurrentQuery=6ZmG5bCR5by6L0lO&type=cn)** — Submitted on 2025.02.14
-- **Weld Defect Detection Method, System, Storage Medium, Computer Device, and Terminal[pdf](https://www.patentstar.com.cn/Search/ResultList?CurrentQuery=6ZmG5bCR5by6L0lO&type=cn)** — Granted on 2024.02.20 
-- **High-Throughput Low-Latency PHY Interface Circuit Device for DDR5 SDRAM[pdf](https://www.patentstar.com.cn/Search/ResultList?CurrentQuery=6ZmG5bCR5by6L0lO&type=cn)** — Granted on 2023.06.09    
+- **FPGA Overlay Processor System and Method Based on State-Space Duality [**PDF**](https://www.patentstar.com.cn/Search/ResultList?CurrentQuery=6ZmG5bCR5by6L0lO&type=cn)** — Granted on 2025.08.01
+- **Accelerator for Speeding Up Inference of Unstructured Sparse Large Models [**PDF**](https://www.patentstar.com.cn/Search/ResultList?CurrentQuery=6ZmG5bCR5by6L0lO&type=cn)** — Submitted on 2025.02.14
+- **Weld Defect Detection Method, System, Storage Medium, Computer Device, and Terminal [**PDF**](https://www.patentstar.com.cn/Search/ResultList?CurrentQuery=6ZmG5bCR5by6L0lO&type=cn)** — Granted on 2024.02.20 
+- **High-Throughput Low-Latency PHY Interface Circuit Device for DDR5 SDRAM [**PDF**](https://www.patentstar.com.cn/Search/ResultList?CurrentQuery=6ZmG5bCR5by6L0lO&type=cn)** — Granted on 2023.06.09    
  
 ---
 
