@@ -134,7 +134,7 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 ### Resources (left) vs. Model Results (right)
 
-| Metric| **LUT** | **FF** | **BRAM (36Kb)** | **DSP** |   | Model Metric | **BERT-base** | **ViT-base** | **GPT-2** | **LLaMA-7B** |
+| Resource| **LUT** | **FF** | **BRAM** | **DSP** |   | Model | **BERT** | **ViT** | **GPT2** | **LLaMA7B** |
 |---|---:|---:|---:|---:|:--:|:--|---:|---:|---:|---:|
 | **Used** | 947,684 | 1,806,396 | 1,004.5 | 4,364 |  | **Latency\*** (ms) | 3.413 | 6.963 | 59.49 | 149.57 |
 | **Util** | 80.16% | 76.39% | 46.50% | 63.80% |  | **Throughput** (TOP/s) | 6.0883 | 4.6693 | 7.4283 | 7.9972 |
