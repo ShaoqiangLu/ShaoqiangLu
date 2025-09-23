@@ -123,7 +123,6 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 - Implemented a real-time hardware–software runtime, covering CPU-side model compilation to FPGA inference.  
 - Enabled PCIe-based transfer of weights and control instructions.  
 - Designed for scalability across various sizes and types of neural networks.  
-
 ## Experimental Setup
 
 - **Board:** Xilinx Alveo **U200**
@@ -131,36 +130,79 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 - **PE clock (boosted):** **600 MHz**
 - **Numbers:** Post-implementation utilization from the deployed bitstream
 
-<div style="display:flex; gap:16px; align-items:flex-start; flex-wrap:wrap;">
+<table>
+  <tr>
+    <!-- LEFT: resources -->
+    <td valign="top" width="50%">
 
-  <div style="flex:1; min-width:340px;">
-  
-  ### On-chip Resource Utilization (Horizontal)
+      <h3>On-chip Resource Utilization</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>Metric \ Resource</th>
+            <th align="right">LUT</th>
+            <th align="right">FF</th>
+            <th align="right">BRAM (36Kb)</th>
+            <th align="right">DSP</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><b>Used</b></td>
+            <td align="right">947,684</td>
+            <td align="right">1,806,396</td>
+            <td align="right">1,004.5</td>
+            <td align="right">4,364</td>
+          </tr>
+          <tr>
+            <td><b>Utilization</b></td>
+            <td align="right">80.16%</td>
+            <td align="right">76.39%</td>
+            <td align="right">46.50%</td>
+            <td align="right">63.80%</td>
+          </tr>
+        </tbody>
+      </table>
 
-  | Metric \ Resource | **LUT** | **FF** | **BRAM (36Kb)** | **DSP** |
-  |---|---:|---:|---:|---:|
-  | **Used** | 947,684 | 1,806,396 | 1,004.5 | 4,364 |
-  | **Utilization** | 80.16% | 76.39% | 46.50% | 63.80% |
+      <p><sub>Deployed on a Xilinx U200 at 300&nbsp;MHz; PEs run in a separate high-speed domain at 600&nbsp;MHz.</sub></p>
+    </td>
 
-  > Deployed on a Xilinx U200 at 300 MHz; PEs run in a separate high-speed domain at 600 MHz.
+    <!-- RIGHT: results -->
+    <td valign="top" width="50%">
 
-  </div>
+      <h3>Model Results</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>Model</th>
+            <th align="right">BERT-base</th>
+            <th align="right">ViT-base</th>
+            <th align="right">GPT-2</th>
+            <th align="right">LLaMA-7B</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><b>Latency*</b> (ms)</td>
+            <td align="right">3.413</td>
+            <td align="right">6.963</td>
+            <td align="right">59.49</td>
+            <td align="right">149.57</td>
+          </tr>
+          <tr>
+            <td><b>Throughput</b> (TOP/s)</td>
+            <td align="right">6.0883</td>
+            <td align="right">4.6693</td>
+            <td align="right">7.4283</td>
+            <td align="right">7.9972</td>
+          </tr>
+        </tbody>
+      </table>
 
-  <div style="flex:1; min-width:340px;">
-
-  ### Model Results
-
-  | Model | **BERT-base** | **ViT-base** | **GPT-2** | **LLaMA-7B** |
-  |:-----:|--------------:|-------------:|---------:|-------------:|
-  | **Latency\*** (ms) | 3.413 | 6.963 | 59.49 | 149.57 |
-  | **Throughput** (TOP/s) | 6.0883 | 4.6693 | 7.4283 | 7.9972 |
-
-  <sub>\* Latency in milliseconds; lower is better.</sub>
-
-  </div>
-
-</div>
-
+      <p><sub>* Lower is better.</sub></p>
+    </td>
+  </tr>
+</table>
 
 
 
