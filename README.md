@@ -1,5 +1,5 @@
 ## Project Demo（2:10）
-https://github.com/user-attachments/assets/32bbff97-6e60-4e14-95c0-2cbec136476f
+[https://github.com/user-attachments/assets/32bbff97-6e60-4e14-95c0-2cbec136476f](https://github.com/ShaoqiangLu/ShaoqiangLu/issues/1#issuecomment-3323364021)
 
 # 😄 Hi, I'm Shaoqiang Lu
 
