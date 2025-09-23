@@ -171,12 +171,12 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 
 - FPGA Resource Utilization
   
-| Resource | Used  | Utilization |  | SMIC55 | Value |  | Platform | Implementation | Time |
+| Resource | Used  | Utilization |  | SMIC55 | Value |  | Platform | Implementation | Latency |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | LUT | 36,583| 57.70% |  | ASIC Area        | 61,801 μm²            |  | CPU       | OpenCV | 33 ms    |
 | FF  | 36,130| 28.50% |  | PT Power         | 361.5 μW              |  | FPGA      | RTL    | 42 ms    |
 | BRAM| 101   | 75.00% |  | NAND2 area       | 1.12 μm²/gate         |  | Cortex-M3 | C      | 2,700 ms |
-| DSP | 27    | 11.00% |  | Equivalent gates | 55,180                |  |           |        |          |
+| DSP | 27    | 11.00% |  | Equivalent gates | 55,180                |  | speedup   |        | ≈ 60x    |
 |     |       |        |  | MOS count (est.) | ≈ 220k (≈ 55,180 × 4) |  |           |        |          |
 
 
