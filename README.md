@@ -1,13 +1,10 @@
 ## Project Demo（2:10）
+https://github.com/user-attachments/assets/32bbff97-6e60-4e14-95c0-2cbec136476f
 
-# 直接把你的 MP4 链接单独放一行（会自动出现播放器）👇
-https://user-images.githubusercontent.com/xxxxxxxx/your_demo.mp4
-
-
-
-
-
-
+<div align="center">
+  <img src="asset/speedup.jpg" alt="End-to-end speedup over vanilla LLaDA baseline" width="800"/>
+  <p>End-to-end speedup over vanilla LLaDA baseline</p>
+</div>
 
 # 😄 Hi, I'm Shaoqiang Lu
 
