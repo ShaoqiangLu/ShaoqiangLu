@@ -131,15 +131,39 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 - **PE clock (boosted):** **600 MHz**
 - **Numbers:** Post-implementation utilization from the deployed bitstream
 
-### On-chip Resource Utilization (Horizontal)
+<div style="display:flex; gap:16px; align-items:flex-start; flex-wrap:wrap;">
 
-| Metric \ Resource | **LUT** | **FF** | **BRAM (36Kb)** | **DSP** |
-|---|---:|---:|---:|---:|
-| **Used** | 947,684 | 1,806,396 | 1,004.5 | 4,364 |
-| **Utilization** | 80.16% | 76.39% | 46.50% | 63.80% |
+  <div style="flex:1; min-width:340px;">
+  
+  ### On-chip Resource Utilization (Horizontal)
+
+  | Metric \ Resource | **LUT** | **FF** | **BRAM (36Kb)** | **DSP** |
+  |---|---:|---:|---:|---:|
+  | **Used** | 947,684 | 1,806,396 | 1,004.5 | 4,364 |
+  | **Utilization** | 80.16% | 76.39% | 46.50% | 63.80% |
+
+  > Deployed on a Xilinx U200 at 300 MHz; PEs run in a separate high-speed domain at 600 MHz.
+
+  </div>
+
+  <div style="flex:1; min-width:340px;">
+
+  ### Model Results
+
+  | Model | **BERT-base** | **ViT-base** | **GPT-2** | **LLaMA-7B** |
+  |:-----:|--------------:|-------------:|---------:|-------------:|
+  | **Latency\*** (ms) | 3.413 | 6.963 | 59.49 | 149.57 |
+  | **Throughput** (TOP/s) | 6.0883 | 4.6693 | 7.4283 | 7.9972 |
+
+  <sub>\* Latency in milliseconds; lower is better.</sub>
+
+  </div>
+
+</div>
 
 
-> Deployed on a Xilinx U200 at 300 MHz; PEs run in a separate high-speed domain at 600 MHz.
+
+
 
 
 **Evaluation**  
