@@ -136,8 +136,8 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 | Resource| **LUT** | **FF** | **BRAM** | **DSP** |   | Model | **BERT** | **ViT** | **GPT2** | **LLaMA7B** |
 |---|---:|---:|---:|---:|:--:|:--|---:|---:|---:|---:|
-| **Used** | 947684 | 1806396 | 1004 | 4364 |  | **Latency\***(ms) | 3.413 | 6.963 | 59.49 | 149.57 |
-| **Util(%)** | 80.16% | 76.39% | 46.50% | 63.80% |  | **Throughput**(TOP/s) | 6.0883 | 4.6693 | 7.4283 | 7.9972 |
+| **Used** | 947684 | 1806396 | 1004 | 4364 |  | **Latency\***(ms) | 3.41 | 6.96 | 59.49 | 149.57 |
+| **Util(%)** | 80.1% | 76.3% | 46.5% | 63.8% |  | **Throughput**(TOP/s) | 6.08 | 4.66 | 7.42 | 7.99 |
 
 <sub>\* We report the first token latency.</sub>
 
