@@ -1,5 +1,5 @@
-## Project Demo（2:10）
-[https://github.com/user-attachments/assets/32bbff97-6e60-4e14-95c0-2cbec136476f](https://github.com/ShaoqiangLu/ShaoqiangLu/issues/1#issuecomment-3323364021)
+## Project Demo
+[ChatOPU]([https://github.com/ShaoqiangLu/ShaoqiangLu/issues/1#issuecomment-3323364021](https://github.com/user-attachments/assets/208bbdd5-37be-42ab-9205-f57918ffdcd3))
 
 # 😄 Hi, I'm Shaoqiang Lu
 
