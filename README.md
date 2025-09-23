@@ -10,8 +10,8 @@
 
 ## 💡 Research Interests
 - Digital IC Design for AI Chips — FPGA or ASIC design targeting AI acceleration.
-- Hardware/Software Co-Design for Transformers, Mamba, and MoE-based large models.
-- AI Compiler Development leveraging a unified IR and ISA for efficient deploymentt.
+- Hardware/Software Co-Design for — Transformers, Mamba, and MoE-based large models.
+- AI Compiler Development leveraging — a unified IR and ISA for efficient deploymentt.
 - Algorithm-Level Optimization — quantization, sparsity, and fine-tuning for lightweight.
 ---
 
