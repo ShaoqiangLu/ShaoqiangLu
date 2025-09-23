@@ -162,6 +162,39 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 - Ran on a 100 MHz AX7103 FPGA with OV5640 (3-million-pixel) for image capture.
 - Data is stored in DDR3, HDMI for real-time display, and UART for status communication.  
 
+## Experimental Setup & Results
+
+### Hardware / I/O
+- **Camera**: OV5640, RGB565, 5 MP  
+- **Display**: HBMI, RGB888, 640×480 @ 60 Hz  
+- **Memory**: DDR3 ×2 (8 Gb each)
+
+### FPGA Resource Utilization
+| Resource | Used  | Utilization |
+|---|---:|---:|
+| LUT | 36,583 | 57.70% |
+| FF  | 36,130 | 28.50% |
+| BRAM | 101 | 75.00% |
+| DSP | 27 | 11.00% |
+
+### ASIC (SMIC 55 nm HD RVT) Synthesis
+| Metric | Value |
+|---|---:|
+| Area | 61,801 μm² |
+| Power | 361.5 μW |
+| NAND2 area | 1.12 μm² / gate |
+| Equivalent gates | 55,180 |
+| MOS count (est.) | ≈ 220k (≈ 55,180 × 4) |
+
+### Performance (per-frame latency)
+| Platform | Implementation | Time |
+|---|---|---:|
+| CPU | OpenCV | 33 ms |
+| FPGA | RTL | 42 ms |
+| Cortex-M3 | C | 2,700 ms |
+
+
+
 **Evaluation**  
 - Achieved **41 ms/face** processing time with hardware acceleration, compared to **2700 ms/face** on pure Cortex-M3.  
 - Delivered a **65.81×** performance speedup over the baseline software-only implementation.  
