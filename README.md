@@ -4,7 +4,7 @@
 🔻 Based: No. 1, Kaiyuan New Youth Plaza, Ningbo, Zhejiang, China  
 🗓 Born: August 1997 (Age 28)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏠 Hometown: Guangxi, China  
 📧 **Email**: [lushaoqiang@sjtu.edu.cn](#)  |  ☎️ **WeChat**: [lushaoqiang2022](#)💬  
-🔗 ●&nbsp;  [Google Scholar](https://scholar.google.com/citations?hl=en&user=VMm9FnEAAAAJ)  &nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;  [IEEE](https://ieeexplore.ieee.org/author/37090071689)  &nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;  [ACM](https://dl.acm.org/profile/99661548970)  &nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;  [GitHub](https://github.com/ShaoqiangLu)  &nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;  [Patents](https://www.patentstar.com.cn/Search/ResultList?CurrentQuery=6ZmG5bCR5by6L0lO&type=cn)
+🔗 ●&nbsp;  [Google Scholar](https://scholar.google.com.sg/citations?user=Vts8xKkAAAAJ&hl=zh-CN&oi=sra)  &nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;  [IEEE](https://ieeexplore.ieee.org/author/37090071689)  &nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;  [ACM](https://dl.acm.org/profile/99661548970)  &nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;  [GitHub](https://github.com/ShaoqiangLu)  &nbsp;&nbsp;&nbsp;&nbsp;●&nbsp;  [Patents](https://www.patentstar.com.cn/Search/ResultList?CurrentQuery=6ZmG5bCR5by6L0lO&type=cn)
 
 ---
 
