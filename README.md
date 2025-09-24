@@ -215,7 +215,7 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 **Tools & Technologies**  
 - Verilog · Synopsys Design Compiler (DC) · PrimeTime (PT) · VCS · TSMC 28nm · SDC · Shell · Tcl
 
-![Layout](fig/PEArray.png)  
+![Layout](fig/PEarray.png)  
 
 ---
 
