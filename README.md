@@ -187,7 +187,7 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 ![Layout](fig/ARMSoC.png)  
 
 ## Demo
-https://github.com/ShaoqiangLu/ShaoqiangLu/issues/1#issuecomment-3324532761
+https://github.com/user-attachments/assets/b270133d-72e5-4ff1-bed0-6e5772e15872
 
 ---
 
