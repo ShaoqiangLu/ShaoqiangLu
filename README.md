@@ -143,7 +143,7 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 **Tools**  
 - Vivado · FPGA (U200) · Verilog · ModelSim · PCIe · DDR · XDMA · C++ · Python · PyTorch
 
-![Architecture](fig/p1.png)   
+![Architecture](fig/McoreOPU.png)   
 
 ## Demo
 https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
@@ -184,7 +184,7 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 - C (embedded Cortex-M3) · AHB/APB/AXI · Keil MDK · AX7103 · OV5640 · HDMI
  
 
-![Layout](fig/p3.png)  
+![Layout](fig/ARMSoC.png)  
 
 ## Demo
 
@@ -215,7 +215,7 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 **Tools & Technologies**  
 - Verilog · Synopsys Design Compiler (DC) · PrimeTime (PT) · VCS · TSMC 28nm · SDC · Shell · Tcl
 
-![Layout](fig/p2.png)  
+![Layout](fig/PEArray.png)  
 
 ---
 
@@ -237,7 +237,7 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 **Tools & Technologies**  
 - PyTorch · DeepSeek-V2-Lite · GSM8K dataset · CUDA · NVIDIA A100 · NVIDIA RTX 4090 · Python
 
-![Layout](fig/p4.png)  
+![Layout](fig/MoE.png)  
 
 ---
 
