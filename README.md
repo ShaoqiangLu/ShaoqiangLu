@@ -167,7 +167,7 @@ https://github.com/user-attachments/assets/c6a6ce16-cf15-428c-b061-8f4f8d9d881d
 
 - Camera: OV5640, RGB565, 5 MP ; Display: HBMI, RGB888, 640×480 @ 60 Hz ; Memory: DDR3 ×2 (8 Gb each).  
 
-| Resource | Used  | Utilization |  | SMIC55 | Report |  | Platform | Implementation | Latency |
+| Resource | Used  | Utilization |  | SMIC55 | Report |  | Platform | Implement | Latency |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | LUT | 36583| 57.70% |  | ASIC Area        | 61801 μm²            |  | CPU       | OpenCV | 33 ms    |
 | FF  | 36130| 28.50% |  | PT Power         | 361.5 μW             |  | FPGA      | RTL    | 42 ms    |
