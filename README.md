@@ -45,6 +45,21 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 &nbsp;&nbsp;🌐**English Proficiency**: College English Test Band 4 (CET-4), Band 6 (CET-6)
 -->
 
+
+---
+
+## 🏆 Awards
+- 🏅 1st Prize, the Build Your Dreams (BYD) Scholarship, Shanghai Jiao Tong University (2025)
+- 🥈 2nd Prize, the 3rd "Huawei Cup" China Graduate Chip Innovation Competition, Special First Prize S2C Technology Co., Ltd (2020)  
+- 🥉 3rd Prize, the 4th "Huawei Cup" China Graduate Chip Innovation Competition, Special First Prize GalaxyCore Technology Co., Ltd (2021)  
+- 🏅 3rd Prize, the 5th National College Student Integrated Circuit Innovation and Entrepreneurship Competition (2021)  
+
+<!--
+- 🏅 1st Prize (twice), 2nd Prize (once), Academic Scholarship for Master’s Degree Candidates, Xidian University  
+- 🎖️ Excellent Graduate Student Cadre honor (thrice) and Outstanding Student Class Monitor (twice), Xidian University  
+-->
+
+
 ---
 
 ## 📜 Published Papers 
@@ -92,22 +107,14 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 ---
 
+<!--
 ## 🛡️ Patents
 
 - **FPGA Overlay Processor System and Method Based on State-Space Duality. [**PDF**](https://www.patentstar.com.cn/Search/ResultList?CurrentQuery=6ZmG5bCR5by6L0lO&type=cn)** — Granted on 2025.08.01
 - **Accelerator for Speeding Up Inference of Unstructured Sparse Large Models. [**PDF**](https://www.patentstar.com.cn/Search/ResultList?CurrentQuery=6ZmG5bCR5by6L0lO&type=cn)** — Submitted on 2025.02.14
 - **Weld Defect Detection Method, System, Storage Medium, Computer Device, and Terminal. [**PDF**](https://www.patentstar.com.cn/Search/ResultList?CurrentQuery=6ZmG5bCR5by6L0lO&type=cn)** — Granted on 2024.02.20 
 - **High-Throughput Low-Latency PHY Interface Circuit Device for DDR5 SDRAM. [**PDF**](https://www.patentstar.com.cn/Search/ResultList?CurrentQuery=6ZmG5bCR5by6L0lO&type=cn)** — Granted on 2023.06.09    
- 
----
-
-## 🏆 Awards
-
-- 🥈 2nd Prize, the 3rd "Huawei Cup" China Graduate Chip Innovation Competition, Special First Prize S2C Technology Co., Ltd (2020)  
-- 🥉 3rd Prize, the 4th "Huawei Cup" China Graduate Chip Innovation Competition, Special First Prize GalaxyCore Technology Co., Ltd (2021)  
-- 🏅 3rd Prize, the 5th National College Student Integrated Circuit Innovation and Entrepreneurship Competition (2021)  
-- 🏅 1st Prize (twice), 2nd Prize (once), Academic Scholarship for Master’s Degree Candidates, Xidian University  
-- 🎖️ Excellent Graduate Student Cadre honor (thrice) and Outstanding Student Class Monitor (twice), Xidian University  
+-->
 
 
 <!--
