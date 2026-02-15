@@ -1,6 +1,6 @@
 <!-- 这里的内容不会显示 -->
 
-# 😄 Hi, Shaoqiang Lu
+# Shaoqiang Lu homepage: [https://shaoqianglu.github.io/](https://shaoqianglu.github.io/)
 
 <!--
 💼 **Job Objective**: Digital Chip Design, AI Model Deployment  
