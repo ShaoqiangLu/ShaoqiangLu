@@ -1,6 +1,6 @@
 <!-- 这里的内容不会显示 -->
 
-# Shaoqiang Lu [https://shaoqianglu.github.io/](https://shaoqianglu.github.io/)
+# Shaoqiang Lu 👉[https://shaoqianglu.github.io/](https://shaoqianglu.github.io/)
 
 <!--
 💼 **Job Objective**: Digital Chip Design, AI Model Deployment  
