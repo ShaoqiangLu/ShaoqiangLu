@@ -105,6 +105,9 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 - 🏅 1st Prize (twice), 2nd Prize (once), Academic Scholarship for Master’s Degree Candidates, Xidian University  
 - 🎖️ Excellent Graduate Student Cadre honor (thrice) and Outstanding Student Class Monitor (twice), Xidian University  
 
+
+<!--
+
 ---
 
 ## 🛠 Skills Summary
@@ -244,4 +247,4 @@ https://github.com/user-attachments/assets/b270133d-72e5-4ff1-bed0-6e5772e15872
 ![Layout](fig/MoE.png)  
 
 ---
-
+-->
