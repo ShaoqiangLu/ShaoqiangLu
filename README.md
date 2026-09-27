@@ -74,7 +74,7 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 4. **[CCF-B, #1 author, TRETS Journal, ISEDA 2024](#)"MCoreOPU: An FPGA-based Multi-Core Overlay Processor for Transformer-based Models"**  
    <ins>Shaoqiang Lu</ins>, Tiandong Zhao, Ting-Jung Lin, Rumin Zhang, Chen Wu, Lei He.   
 
-5. **[CCF-B, #2 author, ICCAD 2024](#)"ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity" [**PDF**](https://dl.acm.org/doi/10.1145/3676536.3676761)**  
+5. **[CCF-B, #2 author, ICCAD 2024](#)"ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity"**  
    Tiandong Zhao, <ins>Shaoqiang Lu</ins>, Chen Wu, Lei He.   
 
 6. **[CCF-C, #2 author, ASAP 2025, BestPaper Nomination](#)"METAL: A Memory-Efficient Transformer Architecture for Long-Context Inference on FPGA"**  
