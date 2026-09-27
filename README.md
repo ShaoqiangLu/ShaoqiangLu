@@ -65,19 +65,19 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 1. **[CCF-A, #1 author, ASPLOS 2026](#)"DFVG: A Heterogeneous Architecture for Speculative Decoding with Draft-on-FPGA and Verify-on-GPU"**  
    <ins>Shaoqiang Lu</ins>, Yangbo Wei, Junhong Qian, Dongge Qin, Shiji Gao, Yizhi Ding, Qifan Wang, Chen Wu, Xiao Shi, Lei He .  
 
-2. **[CCF-A, #1 author, DAC 2025](#)"MambaOPU: An FPGA Overlay Processor for State-space-duality-based Mamba Models" [**PDF**](https://ieeexplore.ieee.org/document/11132895)**  
+2. **[CCF-A, #1 author, DAC 2025](#)"MambaOPU: An FPGA Overlay Processor for State-space-duality-based Mamba Models"**  
    <ins>Shaoqiang Lu</ins>, Xuliang Yu, Tiandong Zhao, Siyuan Miao, Xinsong Sheng, Chen Wu, et al.   
 
 3. **[CCF-B, #1 author, ICCAD 2025](#)"MoE-OPU: An FPGA Overlay Processor Leveraging Expert Parallelism for MoE-based Large Language Models"**  
    <ins>Shaoqiang Lu</ins>, Yangbo Wei, Junhong Qian, Chen Wu, Xiao Shi, Lei He.   
 
-4. **[CCF-B, #1 author, TRETS Journal, ISEDA 2024](#)"MCoreOPU: An FPGA-based Multi-Core Overlay Processor for Transformer-based Models" [**PDF**](https://dl.acm.org/doi/10.1145/3742437)**  
+4. **[CCF-B, #1 author, TRETS Journal, ISEDA 2024](#)"MCoreOPU: An FPGA-based Multi-Core Overlay Processor for Transformer-based Models"**  
    <ins>Shaoqiang Lu</ins>, Tiandong Zhao, Ting-Jung Lin, Rumin Zhang, Chen Wu, Lei He.   
 
 5. **[CCF-B, #2 author, ICCAD 2024](#)"ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity" [**PDF**](https://dl.acm.org/doi/10.1145/3676536.3676761)**  
    Tiandong Zhao, <ins>Shaoqiang Lu</ins>, Chen Wu, Lei He.   
 
-6. **[CCF-C, #2 author, ASAP 2025, BestPaper Nomination](#)"METAL: A Memory-Efficient Transformer Architecture for Long-Context Inference on FPGA" [**PDF**](https://ieeexplore.ieee.org/document/11113558)**  
+6. **[CCF-C, #2 author, ASAP 2025, BestPaper Nomination](#)"METAL: A Memory-Efficient Transformer Architecture for Long-Context Inference on FPGA"**  
    Zicheng He, <ins>Shaoqiang Lu</ins>, Tiandong Zhao, Chen Wu, Lei He.  
 
 7. **[CCF-C, #2 author *Co-author, ASP-DAC 2026](#)"dLLM-OPU: An FPGA Overlay Processor for Accelerated Diffusion Large Language Models"**  
@@ -89,13 +89,13 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 9. **[CCF-A, #3 author, AAAI 2026](#)"Mixture-of-Trees: Learning to Select and Weigh Reasoning Paths for Efficient LLM Inference"**  
    Yangbo Wei, Zhen huang, <ins>Shaoqiang Lu</ins>, Junhong Qian, Dongge Qin, Ting Jung Lin, WEI W. XING, Chen Wu, Lei He .  
 
-10. **[CCF-C, #3 author, FPL 2023](#)"Token Packing for Transformers with Variable-Length Inputs" [**PDF**](https://ieeexplore.ieee.org/document/10296372)**  
+10. **[CCF-C, #3 author, FPL 2023](#)"Token Packing for Transformers with Variable-Length Inputs"**  
    Tiandong Zhao, Siyuan Miao, <ins>Shaoqiang Lu</ins>, Jialin Cao, Jun Qiu, Xiao Shi, Kun Wang, Lei He.   
 
-11. **[CCF-C, #4 author, FCCM 2025](#)"C2OPU: Hybrid Compute-in-Memory and Coarse-Grained Reconfigurable Architecture for Overlay Processing of Transformers" [**PDF**](https://ieeexplore.ieee.org/document/11008948)**  
+11. **[CCF-C, #4 author, FCCM 2025](#)"C2OPU: Hybrid Compute-in-Memory and Coarse-Grained Reconfigurable Architecture for Overlay Processing of Transformers"**  
    Siyuan Miao, Lingkang Zhu, Chen Wu, <ins>Shaoqiang Lu</ins>, Jinming Lyu, Lei He.  
 
-12. **[CCF-A, #7 author, Science China: Information Sciences](#)"FPGA Overlay processor for AI computing" [**PDF**](https://www.sciengine.com/SSI/doi/10.1360/SSI-2024-0351)**  
+12. **[CCF-A, #7 author, Science China: Information Sciences](#)"FPGA Overlay processor for AI computing"**  
    He Lei, Wang Kun, Wu Chen, Tao Zhuofu, Shi Xiao, Miao Siyuan, <ins>Shaoqiang Lu</ins>. 
 
 
