@@ -61,7 +61,7 @@ IC Process (91), EDA Practice (89), Analog IC Design, C Programming, Advanced Co
 
 ## 📜 Published Papers 
 
-> *👨‍🏫 Prof. [Lei He](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=en) – Principal Investigator (PI), Chair Professor at Eastern Institute of Technology, Tenured Professor at UCLA, IEEE Fellow*    
+
 1. **[CCF-A, #1 author, ASPLOS 2026](#)"DFVG: A Heterogeneous Architecture for Speculative Decoding with Draft-on-FPGA and Verify-on-GPU"**  
    <ins>Shaoqiang Lu</ins>, Yangbo Wei, Junhong Qian, Dongge Qin, Shiji Gao, Yizhi Ding, Qifan Wang, Chen Wu, Xiao Shi, Lei He .  
 
