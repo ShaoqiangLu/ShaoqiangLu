@@ -27,12 +27,12 @@
 
 ## 🎓 Education
 
-- **Shanghai Jiao Tong University** &nbsp;&nbsp;&nbsp;&nbsp; Shanghai, China.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2022.9 ~ 2026.6*  
+- **Shanghai Jiao Tong University** &nbsp;&nbsp;&nbsp;&nbsp; PhD.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2022.9 ~ 2026.6*  
 
   
-- **Xidian University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Xi’an, Shaanxi, China.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2019.9 ~ 2022.6*  
+- **Xidian University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Master.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2019.9 ~ 2022.6*  
 
-- **Xidian University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Xi’an, Shaanxi, China.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2015.9 ~ 2019.6*  
+- **Xidian University** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2015.9 ~ 2019.6*  
  
   
 <!--
